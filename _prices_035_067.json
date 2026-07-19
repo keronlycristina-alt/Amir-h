@@ -1,0 +1,947 @@
+[
+    {
+        "id":  35,
+        "nome":  "Club de Nuit Untold",
+        "volume":  null,
+        "preco_atual":  225,
+        "preco_recomendado":  639.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lojas Renner",
+                           "url":  "https://www.lojasrenner.com.br/ashua/p/perfume-club-de-nuit-untold-eau-de-parfum/-/A-929313954-br.lr",
+                           "preco":  639.9,
+                           "tipo":  "preco_atual_renner",
+                           "observacao":  "Club de Nuit Untold EDP 105 ml vendido e entregue por Lojas Renner; preÃ§o verificado em 19/07/2026."
+                       }
+                   ],
+        "metodo":  "PreÃ§o exato do produto e volume na Renner em 19/07/2026.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "açafrão",
+                                               "jasmim"
+                                           ],
+                                  "coracao":  [
+                                                  "madeira de âmbar",
+                                                  "âmbar cinzento"
+                                              ],
+                                  "fundo":  [
+                                                "resina de abeto",
+                                                "cedro"
+                                            ]
+                              },
+        "fonte_notas":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-unissex/club-de-nuit-untold-eau-de-parfum-105ml-perfume-unissex-armaf"
+    },
+    {
+        "id":  36,
+        "nome":  "Club de Nuit Iconic",
+        "volume":  null,
+        "preco_atual":  215,
+        "preco_recomendado":  507,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/perfume-armaf-club-de-nuit-iconic-105ml-p-4265",
+                           "preco":  415,
+                           "tipo":  "preco_padrao_promocional",
+                           "observacao":  "Frasco de 105 ml; loja exibe procedência ADIPEC, autenticidade e nota fiscal; preço sem desconto à vista."
+                       },
+                       {
+                           "loja":  "Aroma das Arábias",
+                           "url":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-masculinos/perfume-arabe-club-de-nuit-iconic-edp-masculino-105-ml",
+                           "preco":  599,
+                           "tipo":  "preco_padrao_promocional",
+                           "observacao":  "Frasco de 105 ml; seção Armaf certificada com selo ADIPEC; preço sem desconto Pix."
+                       }
+                   ],
+        "metodo":  "Mediana de duas ofertas qualificadas (média dos valores) em 2026-07-12; somente procedência ADIPEC e preço padrão, sem Pix.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  37,
+        "nome":  "Club de Nuit White Imperiale",
+        "volume":  null,
+        "preco_atual":  210,
+        "preco_recomendado":  490,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/perfume-armaf-club-de-nuit-imperiale-105ml-p-4273",
+                           "preco":  490,
+                           "tipo":  "preco_padrao",
+                           "observacao":  "Frasco de 105 ml; página do Club de Nuit Imperiale/White Imperiale com procedência ADIPEC; preço sem desconto à vista."
+                       }
+                   ],
+        "metodo":  "Única oferta qualificada localizada em 2026-07-12; somente frasco integral com procedência ADIPEC e preço padrão, sem desconto Pix.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  38,
+        "nome":  "Tres Nuit",
+        "volume":  100,
+        "preco_atual":  200,
+        "preco_recomendado":  468.5,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "Aroma das Arábias",
+                           "url":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-masculinos/tres-nuit-pour-homme-eau-de-parfum-100ml-perfume-masculino-armaf",
+                           "preco":  399,
+                           "tipo":  "preco_padrao_promocional",
+                           "observacao":  "Frasco de 100 ml; página certifica o produto com selo ADIPEC; preço sem desconto Pix."
+                       },
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/perfume-armaf-tres-nuit-pour-homme-100ml-p-4278",
+                           "preco":  538,
+                           "tipo":  "preco_padrao",
+                           "observacao":  "Frasco de 100 ml, esgotado na consulta; loja exibe procedência ADIPEC; preço sem desconto à vista."
+                       }
+                   ],
+        "metodo":  "Mediana de duas ofertas qualificadas (média dos valores) em 2026-07-12; somente procedência ADIPEC e preço padrão, sem Pix.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "lúcia-lima",
+                                               "íris",
+                                               "limão"
+                                           ],
+                                  "coracao":  [
+                                                  "lavanda",
+                                                  "violeta",
+                                                  "notas especiadas"
+                                              ],
+                                  "fundo":  [
+                                                "âmbar cinzento",
+                                                "sândalo"
+                                            ]
+                              },
+        "fonte_notas":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-masculinos/tres-nuit-pour-homme-eau-de-parfum-100ml-perfume-masculino-armaf"
+    },
+    {
+        "id":  39,
+        "nome":  "Hunter Intense",
+        "volume":  100,
+        "preco_atual":  210,
+        "preco_recomendado":  399,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Aroma das Arábias",
+                           "url":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-masculinos/tres-nuit-pour-homme-eau-de-parfum-100ml-perfume-masculino-armaf",
+                           "preco":  399,
+                           "tipo":  "comparavel_armaf_100ml",
+                           "observacao":  "Comparável Armaf 100 ml com selo ADIPEC; não é cotação do Hunter Intense."
+                       },
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/armaf-odyssey-homme-masculino-eau-de-parfum-100ml-p-6372",
+                           "preco":  375,
+                           "tipo":  "comparavel_armaf_100ml",
+                           "observacao":  "Comparável Armaf 100 ml com procedência ADIPEC; não é cotação do Hunter Intense."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para Armaf 100 ml, baseada em comparáveis qualificados da marca; não é cotação exata do produto.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  40,
+        "nome":  "Ventana",
+        "volume":  100,
+        "preco_atual":  200,
+        "preco_recomendado":  399,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Aroma das Arábias",
+                           "url":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-masculinos/tres-nuit-pour-homme-eau-de-parfum-100ml-perfume-masculino-armaf",
+                           "preco":  399,
+                           "tipo":  "comparavel_armaf_100ml",
+                           "observacao":  "Comparável Armaf 100 ml com selo ADIPEC; não é cotação do Ventana."
+                       },
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/armaf-odyssey-homme-masculino-eau-de-parfum-100ml-p-6372",
+                           "preco":  375,
+                           "tipo":  "comparavel_armaf_100ml",
+                           "observacao":  "Comparável Armaf 100 ml com procedência ADIPEC; não é cotação do Ventana."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para Armaf 100 ml, baseada em comparáveis qualificados da marca; não é cotação exata do produto.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  41,
+        "nome":  "Odyssey Homme",
+        "volume":  null,
+        "preco_atual":  220,
+        "preco_recomendado":  375,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/armaf-odyssey-homme-masculino-eau-de-parfum-100ml-p-6372",
+                           "preco":  375,
+                           "tipo":  "preco_padrao",
+                           "observacao":  "Frasco de 100 ml, esgotado na consulta; loja exibe procedência ADIPEC; preço sem desconto à vista."
+                       }
+                   ],
+        "metodo":  "Única oferta qualificada localizada em 2026-07-12; somente frasco integral com procedência ADIPEC e preço padrão, sem desconto Pix.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "baunilha",
+                                               "âmbar"
+                                           ],
+                                  "coracao":  [
+                                                  "íris",
+                                                  "especiarias",
+                                                  "notas orientais"
+                                              ],
+                                  "fundo":  [
+                                                "baunilha",
+                                                "couro",
+                                                "jasmim"
+                                            ]
+                              },
+        "fonte_notas":  "https://www.ifragrancia.com/armaf-odyssey-homme-masculino-eau-de-parfum-100ml-p-6372"
+    },
+    {
+        "id":  42,
+        "nome":  "Odyssey Mega",
+        "volume":  null,
+        "preco_atual":  210,
+        "preco_recomendado":  449,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/armaf-odyssey-homme-masculino-eau-de-parfum-100ml-p-6372",
+                           "preco":  375,
+                           "tipo":  "comparavel_odyssey_100ml",
+                           "observacao":  "Comparável direto da linha Odyssey, com procedência ADIPEC; não é cotação do Odyssey Mega."
+                       },
+                       {
+                           "loja":  "Aroma das Arábias",
+                           "url":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-masculinos/perfume-arabe-club-de-nuit-iconic-edp-masculino-105-ml",
+                           "preco":  599,
+                           "tipo":  "comparavel_armaf_premium",
+                           "observacao":  "Teto comparável Armaf premium com selo ADIPEC; não é cotação do Odyssey Mega."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora entre um comparável Odyssey e um Armaf premium qualificados; não é cotação exata do Odyssey Mega.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  43,
+        "nome":  "Legesi Men",
+        "volume":  100,
+        "preco_atual":  190,
+        "preco_recomendado":  399,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Aroma das Arábias",
+                           "url":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-masculinos/tres-nuit-pour-homme-eau-de-parfum-100ml-perfume-masculino-armaf",
+                           "preco":  399,
+                           "tipo":  "comparavel_armaf_100ml",
+                           "observacao":  "Comparável Armaf 100 ml com selo ADIPEC; não é cotação do Legesi Men."
+                       },
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/armaf-odyssey-homme-masculino-eau-de-parfum-100ml-p-6372",
+                           "preco":  375,
+                           "tipo":  "comparavel_armaf_100ml",
+                           "observacao":  "Comparável Armaf 100 ml com procedência ADIPEC; não é cotação do Legesi Men."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para Armaf 100 ml, baseada em comparáveis qualificados da marca; não é cotação exata do produto.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  44,
+        "nome":  "Aura Fresh",
+        "volume":  100,
+        "preco_atual":  185,
+        "preco_recomendado":  399,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Aroma das Arábias",
+                           "url":  "https://www.aromadasarabias.com.br/perfumes-arabes/perfumes-masculinos/tres-nuit-pour-homme-eau-de-parfum-100ml-perfume-masculino-armaf",
+                           "preco":  399,
+                           "tipo":  "comparavel_armaf_100ml",
+                           "observacao":  "Comparável Armaf 100 ml com selo ADIPEC; não é cotação do Aura Fresh."
+                       },
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/armaf-odyssey-homme-masculino-eau-de-parfum-100ml-p-6372",
+                           "preco":  375,
+                           "tipo":  "comparavel_armaf_100ml",
+                           "observacao":  "Comparável Armaf 100 ml com procedência ADIPEC; não é cotação do Aura Fresh."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para Armaf 100 ml, baseada em comparáveis qualificados da marca; não é cotação exata do produto.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  45,
+        "nome":  "Craze",
+        "volume":  100,
+        "preco_atual":  200,
+        "preco_recomendado":  538,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/perfume-armaf-craze-for-men-100ml-p-4276",
+                           "preco":  538,
+                           "tipo":  "preco_padrao",
+                           "observacao":  "Frasco de 100 ml, esgotado na consulta; loja exibe procedência ADIPEC; preço sem desconto à vista."
+                       }
+                   ],
+        "metodo":  "Única oferta qualificada localizada em 2026-07-12; somente frasco integral com procedência ADIPEC e preço padrão, sem desconto Pix.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  46,
+        "nome":  "Supremacy Silver",
+        "volume":  null,
+        "preco_atual":  250,
+        "preco_recomendado":  449,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-collectors-edition-pour-homme/",
+                           "preco":  29.9,
+                           "tipo":  "comparavel_afnan_supremacy_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha Supremacy; usada apenas para posicionamento relativo, não como cotação do frasco."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-not-only-intense/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_supremacy_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha Supremacy; usada apenas para posicionamento relativo, não como cotação do frasco."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan Supremacy, baseada no posicionamento relativo de comparáveis ADIPEC da linha; não é cotação exata e não usa extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  47,
+        "nome":  "Supremacy Not Only Intense",
+        "volume":  null,
+        "preco_atual":  260,
+        "preco_recomendado":  499,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-not-only-intense/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_exato_decant",
+                           "observacao":  "Amostra/decant do próprio perfume com selo ADIPEC; não é cotação do frasco integral."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-collectors-edition-pour-homme/",
+                           "preco":  29.9,
+                           "tipo":  "comparavel_afnan_supremacy_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha premium Supremacy; usada para posicionamento relativo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora para o frasco integral Extrait da linha Supremacy, baseada em comparáveis ADIPEC da própria linha; não é cotação exata e não usa extrapolação linear por ml.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "bergamota",
+                                               "groselha preta",
+                                               "maçã"
+                                           ],
+                                  "coracao":  [
+                                                  "musgo de carvalho",
+                                                  "patchouli",
+                                                  "lavanda"
+                                              ],
+                                  "fundo":  [
+                                                "âmbar cinzento",
+                                                "almíscar",
+                                                "açafrão"
+                                            ]
+                              },
+        "fonte_notas":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-not-only-intense/"
+    },
+    {
+        "id":  48,
+        "nome":  "Supremacy in Heaven",
+        "volume":  100,
+        "preco_atual":  235,
+        "preco_recomendado":  449,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-collectors-edition-pour-homme/",
+                           "preco":  29.9,
+                           "tipo":  "comparavel_afnan_supremacy_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha Supremacy; não é cotação do Supremacy in Heaven."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-not-only-intense/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_supremacy_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha Supremacy; usada somente para posicionamento relativo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral da linha Afnan Supremacy, baseada em comparáveis ADIPEC; não é cotação exata e não usa extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  49,
+        "nome":  "Supremacy Incense",
+        "volume":  100,
+        "preco_atual":  245,
+        "preco_recomendado":  479,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-collectors-edition-pour-homme/",
+                           "preco":  29.9,
+                           "tipo":  "comparavel_afnan_supremacy_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha premium Supremacy; não é cotação do Supremacy Incense."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-not-only-intense/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_supremacy_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha Supremacy; usada somente para posicionamento relativo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral da linha Afnan Supremacy, com ajuste pela proposta intensa/incensada; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  50,
+        "nome":  "Turathi Blue",
+        "volume":  90,
+        "preco_atual":  230,
+        "preco_recomendado":  449,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-turathi-blue/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_exato_decant",
+                           "observacao":  "Amostra/decant do próprio perfume com selo ADIPEC; não é cotação do frasco integral."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-turathi-electric/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_turathi_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha Turathi; usada para posicionamento relativo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral da linha Afnan Turathi, baseada em comparáveis ADIPEC; não é cotação exata e não usa extrapolação linear por ml.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "cítricos"
+                                           ],
+                                  "coracao":  [
+                                                  "âmbar",
+                                                  "notas amadeiradas"
+                                              ],
+                                  "fundo":  [
+                                                "almíscar",
+                                                "patchouli",
+                                                "especiarias"
+                                            ]
+                              },
+        "fonte_notas":  "https://tabsperfumes.com.br/produtos/decant-afnan-turathi-blue/"
+    },
+    {
+        "id":  51,
+        "nome":  "Turathi Brown",
+        "volume":  90,
+        "preco_atual":  230,
+        "preco_recomendado":  449,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-turathi-blue/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_turathi_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha Turathi; não é cotação do Turathi Brown."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-turathi-electric/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_turathi_decant",
+                           "observacao":  "Amostra/decant ADIPEC da linha Turathi; usada para posicionamento relativo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral de 90 ml da linha Afnan Turathi, baseada em comparáveis ADIPEC; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  52,
+        "nome":  "9pm",
+        "volume":  100,
+        "preco_atual":  250,
+        "preco_recomendado":  399,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_exato_decant",
+                           "observacao":  "Amostra/decant do próprio perfume com selo ADIPEC; não é cotação do frasco integral."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9am-dive/",
+                           "preco":  19.9,
+                           "tipo":  "comparavel_afnan_9_decant",
+                           "observacao":  "Amostra/decant ADIPEC da família Afnan 9; usada para posicionamento relativo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 9PM, baseada no posicionamento de comparáveis ADIPEC da família; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "maçã",
+                                               "canela",
+                                               "lavanda silvestre",
+                                               "bergamota"
+                                           ],
+                                  "coracao":  [
+                                                  "flor de laranjeira",
+                                                  "lírio-do-vale"
+                                              ],
+                                  "fundo":  [
+                                                "baunilha",
+                                                "fava tonka",
+                                                "âmbar",
+                                                "patchouli"
+                                            ]
+                              },
+        "fonte_notas":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/"
+    },
+    {
+        "id":  53,
+        "nome":  "9am Dive",
+        "volume":  null,
+        "preco_atual":  235,
+        "preco_recomendado":  399,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9am-dive/",
+                           "preco":  19.9,
+                           "tipo":  "comparavel_exato_decant",
+                           "observacao":  "Amostra/decant do próprio perfume com selo ADIPEC; não é cotação do frasco integral."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_9_decant",
+                           "observacao":  "Amostra/decant ADIPEC da família Afnan 9; usada para posicionamento relativo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 9AM Dive, baseada no posicionamento de comparáveis ADIPEC da família; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  54,
+        "nome":  "Rare Carbon",
+        "volume":  100,
+        "preco_atual":  255,
+        "preco_recomendado":  429,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada somente para posicionamento de marca, não é cotação do Rare Carbon."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-not-only-intense/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_premium_decant",
+                           "observacao":  "Amostra/decant Afnan premium com selo ADIPEC; usada para delimitar a faixa superior."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 100 ml, baseada na faixa relativa de comparáveis ADIPEC da marca; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  55,
+        "nome":  "Modest Une",
+        "volume":  100,
+        "preco_atual":  230,
+        "preco_recomendado":  399,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9am-dive/",
+                           "preco":  19.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada somente para posicionamento de marca, não é cotação do Modest Une."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada para delimitar a faixa de varejo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 100 ml, baseada na faixa relativa de comparáveis ADIPEC da marca; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  56,
+        "nome":  "Historic Olmeda",
+        "volume":  100,
+        "preco_atual":  240,
+        "preco_recomendado":  449,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-collectors-edition-pour-homme/",
+                           "preco":  29.9,
+                           "tipo":  "comparavel_afnan_premium_decant",
+                           "observacao":  "Amostra/decant Afnan premium com selo ADIPEC; não é cotação do Historic Olmeda."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-not-only-intense/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_premium_decant",
+                           "observacao":  "Amostra/decant Afnan premium com selo ADIPEC; usada para posicionamento relativo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 100 ml, baseada na faixa superior de comparáveis ADIPEC da marca; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  57,
+        "nome":  "Mirsaal of Trust",
+        "volume":  90,
+        "preco_atual":  245,
+        "preco_recomendado":  429,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada somente para posicionamento de marca, não é cotação do Mirsaal of Trust."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-turathi-blue/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada para delimitar a faixa de varejo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 90 ml, baseada na faixa relativa de comparáveis ADIPEC da marca; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  58,
+        "nome":  "Mirsaal with Love",
+        "volume":  90,
+        "preco_atual":  240,
+        "preco_recomendado":  429,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada somente para posicionamento de marca, não é cotação do Mirsaal with Love."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-turathi-blue/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada para delimitar a faixa de varejo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 90 ml, baseada na faixa relativa de comparáveis ADIPEC da marca; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  59,
+        "nome":  "Souvenir Floral Bouquet",
+        "volume":  100,
+        "preco_atual":  230,
+        "preco_recomendado":  449,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-collectors-edition-pour-homme/",
+                           "preco":  29.9,
+                           "tipo":  "comparavel_afnan_premium_decant",
+                           "observacao":  "Amostra/decant Afnan premium com selo ADIPEC; usada para posicionamento, não é cotação do Souvenir Floral Bouquet."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada para delimitar a faixa de varejo."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 100 ml, baseada na faixa relativa de comparáveis ADIPEC da marca e no posicionamento presenteável da linha Souvenir; não é cotação exata.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  60,
+        "nome":  "Violet Bouquet",
+        "volume":  80,
+        "preco_atual":  225,
+        "preco_recomendado":  429,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-9pm/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_decant",
+                           "observacao":  "Amostra/decant Afnan com selo ADIPEC; usada somente para posicionamento de marca, não é cotação do Violet Bouquet."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-afnan-supremacy-not-only-intense/",
+                           "preco":  24.9,
+                           "tipo":  "comparavel_afnan_premium_decant",
+                           "observacao":  "Amostra/decant Afnan premium com selo ADIPEC; usada para delimitar a faixa superior."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para frasco integral Afnan 80 ml, baseada na faixa relativa de comparáveis ADIPEC da marca; não é cotação exata nem extrapolação linear por ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  61,
+        "nome":  "Kismet Angel / Magic",
+        "volume":  100,
+        "preco_atual":  140,
+        "preco_recomendado":  249,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-salvo-tradicional-edp-100ml-para-masculino-maison-alhambra",
+                           "preco":  219,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra 100 ml com selo ADIPEC e fornecedor oficial; não é cotação do Kismet Angel/Magic."
+                       },
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-maison-alhambra-intrude-edp-100ml-fem",
+                           "preco":  199,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra 100 ml com selo ADIPEC e fornecedor oficial; usado como piso de linha."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para Maison Alhambra 100 ml, com acréscimo moderado sobre comparáveis ADIPEC da marca pelo posicionamento da linha Kismet; não é cotação exata.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  62,
+        "nome":  "Kismet Men",
+        "volume":  100,
+        "preco_atual":  140,
+        "preco_recomendado":  249,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-salvo-tradicional-edp-100ml-para-masculino-maison-alhambra",
+                           "preco":  219,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra 100 ml com selo ADIPEC e fornecedor oficial; não é cotação do Kismet Men."
+                       },
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-maison-alhambra-intrude-edp-100ml-fem",
+                           "preco":  199,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra 100 ml com selo ADIPEC e fornecedor oficial; usado como piso de linha."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para Maison Alhambra 100 ml, com acréscimo moderado sobre comparáveis ADIPEC da marca pelo posicionamento da linha Kismet; não é cotação exata.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  63,
+        "nome":  "Kismet Moscow",
+        "volume":  100,
+        "preco_atual":  140,
+        "preco_recomendado":  249,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-salvo-tradicional-edp-100ml-para-masculino-maison-alhambra",
+                           "preco":  219,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra 100 ml com selo ADIPEC e fornecedor oficial; não é cotação do Kismet Moscow."
+                       },
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-maison-alhambra-intrude-edp-100ml-fem",
+                           "preco":  199,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra 100 ml com selo ADIPEC e fornecedor oficial; usado como piso de linha."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium para Maison Alhambra 100 ml, com acréscimo moderado sobre comparáveis ADIPEC da marca pelo posicionamento da linha Kismet; não é cotação exata.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  64,
+        "nome":  "Toscano Leather",
+        "volume":  80,
+        "preco_atual":  145,
+        "preco_recomendado":  299,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/bright-peach-feminino-eau-de-parfum-80ml-maison-alhambra-p-5349",
+                           "preco":  375,
+                           "tipo":  "comparavel_maison_alhambra_premium_80ml",
+                           "observacao":  "Comparável Maison Alhambra premium de 80 ml com procedência ADIPEC; não é cotação do Toscano Leather."
+                       },
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-salvo-tradicional-edp-100ml-para-masculino-maison-alhambra",
+                           "preco":  219,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra com selo ADIPEC e fornecedor oficial; usado como piso da marca."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora próxima à mediana entre um Maison Alhambra premium de 80 ml e um comparável base ADIPEC da marca; não é cotação exata do Toscano Leather.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  65,
+        "nome":  "Porto Neroli",
+        "volume":  80,
+        "preco_atual":  140,
+        "preco_recomendado":  299,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/bright-peach-feminino-eau-de-parfum-80ml-maison-alhambra-p-5349",
+                           "preco":  375,
+                           "tipo":  "comparavel_maison_alhambra_premium_80ml",
+                           "observacao":  "Comparável Maison Alhambra premium de 80 ml com procedência ADIPEC; não é cotação do Porto Neroli."
+                       },
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-salvo-tradicional-edp-100ml-para-masculino-maison-alhambra",
+                           "preco":  219,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra com selo ADIPEC e fornecedor oficial; usado como piso da marca."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora próxima à mediana entre um Maison Alhambra premium de 80 ml e um comparável base ADIPEC da marca; não é cotação exata do Porto Neroli.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  66,
+        "nome":  "Bright Peach",
+        "volume":  80,
+        "preco_atual":  140,
+        "preco_recomendado":  375,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/bright-peach-feminino-eau-de-parfum-80ml-maison-alhambra-p-5349",
+                           "preco":  375,
+                           "tipo":  "preco_padrao",
+                           "observacao":  "Frasco de 80 ml, esgotado na consulta; loja exibe procedência ADIPEC; preço sem desconto à vista."
+                       }
+                   ],
+        "metodo":  "Única oferta qualificada localizada em 2026-07-12; somente frasco integral com procedência ADIPEC e preço padrão, sem desconto Pix.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  67,
+        "nome":  "Woody Oud",
+        "volume":  80,
+        "preco_atual":  140,
+        "preco_recomendado":  299,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "iFragrancia",
+                           "url":  "https://www.ifragrancia.com/bright-peach-feminino-eau-de-parfum-80ml-maison-alhambra-p-5349",
+                           "preco":  375,
+                           "tipo":  "comparavel_maison_alhambra_premium_80ml",
+                           "observacao":  "Comparável Maison Alhambra premium de 80 ml com procedência ADIPEC; não é cotação do Woody Oud."
+                       },
+                       {
+                           "loja":  "Outlet Bolsas de Luxo",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-salvo-tradicional-edp-100ml-para-masculino-maison-alhambra",
+                           "preco":  219,
+                           "tipo":  "comparavel_maison_alhambra_100ml",
+                           "observacao":  "Comparável Maison Alhambra com selo ADIPEC e fornecedor oficial; usado como piso da marca."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora próxima à mediana entre um Maison Alhambra premium de 80 ml e um comparável base ADIPEC da marca; não é cotação exata do Woody Oud.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    }
+]

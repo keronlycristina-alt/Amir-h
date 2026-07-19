@@ -1,0 +1,1391 @@
+[
+    {
+        "id":  1,
+        "nome":  "Khamrah",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Bergamota",
+                                               "Canela",
+                                               "Noz-moscada"
+                                           ],
+                                  "coracao":  [
+                                                  "Acorde de tâmaras",
+                                                  "Lírio-do-vale",
+                                                  "Pralinê",
+                                                  "Tuberosa"
+                                              ],
+                                  "fundo":  [
+                                                "Fava-tonka torrada",
+                                                "Benjoim do Laos",
+                                                "Mirra",
+                                                "Akigalawood",
+                                                "Baunilha",
+                                                "Madeira ambarada"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/khamrah/",
+        "preco_atual":  220,
+        "preco_recomendado":  419.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lojas Renner",
+                           "url":  "https://www.lojasrenner.com.br/ashua/p/lattafa-khamrah-edp/-/A-930699330-br.lr",
+                           "preco":  419.9,
+                           "tipo":  "preco_atual_renner",
+                           "observacao":  "Khamrah EDP 100 ml vendido e entregue por Lojas Renner; preÃ§o promocional verificado em 19/07/2026 (preÃ§o regular R$ 479,90)."
+                       }
+                   ],
+        "metodo":  "PreÃ§o exato do produto e volume na Renner em 19/07/2026."
+    },
+    {
+        "id":  2,
+        "nome":  "Yara",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Tangerina",
+                                               "Heliotrópio",
+                                               "Orquídea"
+                                           ],
+                                  "coracao":  [
+                                                  "Notas tropicais",
+                                                  "Acorde gourmand"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Sândalo",
+                                                "Almíscar"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/yara/",
+        "preco_atual":  170,
+        "preco_recomendado":  284.9,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "Fran Makes",
+                           "url":  "https://franmakes.com.br/lattafa-yara-eau-de-parfum-100ml/",
+                           "preco":  229.9,
+                           "tipo":  "promocao",
+                           "observacao":  "Frasco de 100 ml; de R$ 399,90 por R$ 229,90. A página declara “Selo Original ADIPEC”. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/produtos/",
+                           "preco":  339.9,
+                           "tipo":  "promocao",
+                           "observacao":  "Yara 100 ml, de R$ 349,90 por R$ 339,90. A loja declara que seus produtos são originais com Selo ADIPEC e adquiridos de representantes oficiais. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Mediana das 2 fontes qualificadas (média central), R$ 284,90. Nenhum preço do Yara original foi localizado no canal oficial Lattafa Brasil."
+    },
+    {
+        "id":  3,
+        "nome":  "Yara Tous",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Coco",
+                                               "Manga",
+                                               "Maracujá"
+                                           ],
+                                  "coracao":  [
+                                                  "Jasmim",
+                                                  "Heliotrópio",
+                                                  "Flor de laranjeira"
+                                              ],
+                                  "fundo":  [
+                                                "Cashmeran",
+                                                "Baunilha",
+                                                "Almíscar"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/yara-tous/",
+        "preco_atual":  160,
+        "preco_recomendado":  359.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Yara Moi 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Fran Makes",
+                           "url":  "https://franmakes.com.br/lattafa-yara-eau-de-parfum-100ml/",
+                           "preco":  229.9,
+                           "tipo":  "comparavel_adipec",
+                           "observacao":  "Yara 100 ml usado somente como comparável da família Yara; a página declara “Selo Original ADIPEC”. Não é cotação do Yara Tous. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/produtos/",
+                           "preco":  339.9,
+                           "tipo":  "comparavel_adipec",
+                           "observacao":  "Yara 100 ml — R$ 339,90 usado somente como comparável; a loja declara Selo ADIPEC e aquisição de representantes oficiais. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Faixa baseada em variantes Yara de 100 ml qualificadas; adotado o teto oficial conservador da família. Valor de referência arredondado: R$ 359,90."
+    },
+    {
+        "id":  4,
+        "nome":  "Yara Moi",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Pera",
+                                               "Pimenta-rosa",
+                                               "Groselha-preta"
+                                           ],
+                                  "coracao":  [
+                                                  "Tuberosa",
+                                                  "Jasmim",
+                                                  "Amêndoa"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Cashmeran",
+                                                "Patchouli"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/yara-moii/",
+        "preco_atual":  160,
+        "preco_recomendado":  359.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "preco_regular_oficial",
+                           "observacao":  "Preço regular exato de Yara Moi 100 ml exibido pela loja oficial brasileira; a operação declara fragrâncias 100% autênticas, direto da Lattafa. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Preço recomendado igual ao preço regular oficial brasileiro: R$ 359,90."
+    },
+    {
+        "id":  5,
+        "nome":  "Asad",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Pimenta-preta",
+                                               "Abacaxi",
+                                               "Tabaco"
+                                           ],
+                                  "coracao":  [
+                                                  "Café",
+                                                  "Íris",
+                                                  "Patchouli"
+                                              ],
+                                  "fundo":  [
+                                                "Âmbar",
+                                                "Baunilha",
+                                                "Madeiras secas",
+                                                "Benjoim",
+                                                "Ládano"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/asad/",
+        "preco_atual":  215,
+        "preco_recomendado":  359.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "preco_regular_oficial",
+                           "observacao":  "Preço regular exato de Asad 100 ml exibido pela loja oficial brasileira; a operação declara fragrâncias 100% autênticas, direto da Lattafa. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Preço recomendado igual ao preço regular oficial brasileiro: R$ 359,90."
+    },
+    {
+        "id":  6,
+        "nome":  "Asad Zanzibar",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Pimenta-preta",
+                                               "Lavanda-do-mar"
+                                           ],
+                                  "coracao":  [
+                                                  "Água de coco salgada",
+                                                  "Íris"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Incenso"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/asad-zanzibar/",
+        "preco_atual":  200,
+        "preco_recomendado":  424.95,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/marcas/lattafa/",
+                           "preco":  419.9,
+                           "tipo":  "regular",
+                           "observacao":  "Asad Zanzibar 100 ml. A loja declara que seus produtos são originais com Selo ADIPEC e adquiridos de representantes oficiais. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/arabes.html",
+                           "preco":  429.99,
+                           "tipo":  "promocao",
+                           "observacao":  "Asad Zanzibar 100 ml, de R$ 699,90 por R$ 429,99. A Menahra declara perfumes originais com Selo ADIPEC. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Mediana das 2 fontes qualificadas (média central), arredondada ao centavo: R$ 424,95."
+    },
+    {
+        "id":  7,
+        "nome":  "Bade\u0027e Al Oud - Oud for Glory",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Açafrão",
+                                               "Noz-moscada",
+                                               "Lavanda"
+                                           ],
+                                  "coracao":  [
+                                                  "Agarwood (oud)",
+                                                  "Patchouli"
+                                              ],
+                                  "fundo":  [
+                                                "Agarwood (oud)",
+                                                "Patchouli",
+                                                "Almíscar"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/badee-al-oud-oud-for-glory/",
+        "preco_atual":  200,
+        "preco_recomendado":  449.45,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/produtos/badee-al-oud-for-glory-lattafa-eau-de-parfum-perfume-unissex/",
+                           "preco":  398.9,
+                           "tipo":  "regular",
+                           "observacao":  "Bade\u0027e Al Oud for Glory 100 ml. A loja declara produtos originais com Selo ADIPEC e compra de representantes oficiais. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/arabes.html",
+                           "preco":  499.99,
+                           "tipo":  "promocao",
+                           "observacao":  "Bade\u0027e Al Oud Oud for Glory 100 ml, de R$ 699,90 por R$ 499,99. A Menahra declara perfumes originais com Selo ADIPEC. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Mediana das 2 fontes qualificadas (média central), arredondada ao centavo: R$ 449,45."
+    },
+    {
+        "id":  8,
+        "nome":  "Bade\u0027e Al Oud - Amethyst",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Pimenta-rosa",
+                                               "Bergamota"
+                                           ],
+                                  "coracao":  [
+                                                  "Rosa turca",
+                                                  "Rosa búlgara",
+                                                  "Jasmim"
+                                              ],
+                                  "fundo":  [
+                                                "Agarwood (oud)",
+                                                "Âmbar",
+                                                "Baunilha"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/badee-al-oud-amethyest/",
+        "preco_atual":  200,
+        "preco_recomendado":  289.99,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/bade-e-al-oud-amethyste-lattafa-eau-de-parfum-perfume-unissex-100ml.html",
+                           "preco":  289.99,
+                           "tipo":  "promocao",
+                           "observacao":  "Frasco de 100 ml; de R$ 499,90 por R$ 289,99. A página e a loja declaram perfumes originais com Selo ADIPEC. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma única fonte qualificada com produto e volume exatos; recomendado igual ao preço verificado, R$ 289,99."
+    },
+    {
+        "id":  9,
+        "nome":  "Bade\u0027e Al Oud - Honor \u0026 Glory",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Abacaxi brûlée"
+                                           ],
+                                  "coracao":  [
+                                                  "Cúrcuma",
+                                                  "Canela",
+                                                  "Pimenta-preta",
+                                                  "Benjoim"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Cashmeran",
+                                                "Sândalo",
+                                                "Musgo"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/badee-al-oud-honor-and-glory/",
+        "preco_atual":  205,
+        "preco_recomendado":  439.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  439.9,
+                           "tipo":  "preco_regular_oficial",
+                           "observacao":  "Preço regular exato de Bade\u0027e Al Oud Honor \u0026 Glory 100 ml exibido pela loja oficial brasileira; a operação declara fragrâncias 100% autênticas, direto da Lattafa. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Preço recomendado igual ao preço regular oficial brasileiro: R$ 439,90."
+    },
+    {
+        "id":  10,
+        "nome":  "Bade\u0027e Al Oud - Sublime",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Ameixa",
+                                               "Maçã"
+                                           ],
+                                  "coracao":  [
+                                                  "Magnólia",
+                                                  "Jasmim",
+                                                  "Nota solar",
+                                                  "Ládano",
+                                                  "Âmbar"
+                                              ],
+                                  "fundo":  [
+                                                "Almíscar",
+                                                "Musgo",
+                                                "Caramelo",
+                                                "Oud"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/badee-al-oud-sublime/",
+        "preco_atual":  210,
+        "preco_recomendado":  399.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  439.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Bade\u0027e Al Oud Honor \u0026 Glory 100 ml — R$ 439,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/produtos/badee-al-oud-for-glory-lattafa-eau-de-parfum-perfume-unissex/",
+                           "preco":  398.9,
+                           "tipo":  "comparavel_adipec",
+                           "observacao":  "Bade\u0027e Al Oud for Glory 100 ml — R$ 398,90 usado somente como comparável; a loja declara Selo ADIPEC e aquisição de representantes oficiais. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/bade-e-al-oud-amethyste-lattafa-eau-de-parfum-perfume-unissex-100ml.html",
+                           "preco":  289.99,
+                           "tipo":  "comparavel_adipec",
+                           "observacao":  "Bade\u0027e Al Oud Amethyst 100 ml — R$ 289,99 usado somente como comparável; a Menahra declara perfumes originais com Selo ADIPEC. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Faixa central arredondada de três versões Bade\u0027e Al Oud de 100 ml com procedência qualificada. Valor de referência arredondado: R$ 399,90."
+    },
+    {
+        "id":  11,
+        "nome":  "Nebras",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Frutas vermelhas",
+                                               "Mandarina"
+                                           ],
+                                  "coracao":  [
+                                                  "Baunilha",
+                                                  "Cacau",
+                                                  "Rosa"
+                                              ],
+                                  "fundo":  [
+                                                "Fava-tonka",
+                                                "Âmbar",
+                                                "Almíscar",
+                                                "Açúcar"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/nebras/",
+        "preco_atual":  180,
+        "preco_recomendado":  499.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  499.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Maahir Legacy 100 ml — R$ 499,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  439.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Bade\u0027e Al Oud Honor \u0026 Glory 100 ml — R$ 439,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  639.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Emeer 100 ml — R$ 639,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Nebras pertence ao posicionamento Lattafa Pride; usada a faixa oficial premium da marca em 100 ml, com referência central arredondada. Valor de referência arredondado: R$ 499,90."
+    },
+    {
+        "id":  12,
+        "nome":  "Eclaire",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Caramelo",
+                                               "Leite",
+                                               "Açúcar"
+                                           ],
+                                  "coracao":  [
+                                                  "Flores brancas",
+                                                  "Mel"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Pralinê",
+                                                "Almíscar"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/eclaire/",
+        "preco_atual":  210,
+        "preco_recomendado":  396.98,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/produtos/eclaire-lattafa-eau-de-parfum-perfume-feminino/",
+                           "preco":  396.98,
+                           "tipo":  "regular",
+                           "observacao":  "Eclaire 100 ml. A loja declara que seus produtos são originais com Selo ADIPEC e adquiridos de representantes oficiais. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma única fonte qualificada com produto e volume exatos; recomendado igual ao preço verificado, R$ 396,98."
+    },
+    {
+        "id":  13,
+        "nome":  "Ameer Al Oudh Intense Oud",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Açafrão",
+                                               "Noz-moscada"
+                                           ],
+                                  "coracao":  [
+                                                  "Gerânio",
+                                                  "Notas amadeiradas",
+                                                  "Ládano"
+                                              ],
+                                  "fundo":  [
+                                                "Oud",
+                                                "Baunilha",
+                                                "Couro"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/ameer-al-oudh-intense/",
+        "preco_atual":  190,
+        "preco_recomendado":  399.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/produtos/badee-al-oud-for-glory-lattafa-eau-de-parfum-perfume-unissex/",
+                           "preco":  398.9,
+                           "tipo":  "comparavel_adipec",
+                           "observacao":  "Bade\u0027e Al Oud for Glory 100 ml — R$ 398,90 usado somente como comparável; a loja declara Selo ADIPEC e aquisição de representantes oficiais. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/arabes.html",
+                           "preco":  499.9,
+                           "tipo":  "comparavel_adipec",
+                           "observacao":  "Qaa\u0027ed 100 ml — R$ 499,90 usado somente como comparável; a Menahra declara perfumes originais com Selo ADIPEC. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Al Noble Ameer 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Comparáveis orientais intensos/oud da Lattafa em 100 ml; adotado ponto central conservador e arredondado. Valor de referência arredondado: R$ 399,90."
+    },
+    {
+        "id":  14,
+        "nome":  "Fakhar Black",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Bergamota",
+                                               "Íris",
+                                               "Notas marinhas"
+                                           ],
+                                  "coracao":  [
+                                                  "Violeta",
+                                                  "Âmbar"
+                                              ],
+                                  "fundo":  [
+                                                "Musgo de carvalho",
+                                                "Patchouli"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/fakhar-lattafa-men/",
+        "preco_atual":  175,
+        "preco_recomendado":  299,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "Fino Perfume",
+                           "url":  "https://www.finoperfume.com.br/produtos/perfume-masculino-lattafa-fakhar-black-man-eau-de-parfum-17cmt/",
+                           "preco":  289,
+                           "tipo":  "regular",
+                           "observacao":  "Fakhar Black 100 ml lacrado; a página declara produto original com Selo ADIPEC e nota fiscal. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Faro Perfumes",
+                           "url":  "https://faroperfumes.com.br/produtos/perfume-arabe-fakhar-black-lattafa-original-eau-de-parfum-perfume-masculino/",
+                           "preco":  299,
+                           "tipo":  "regular",
+                           "observacao":  "Fakhar Black 100 ml; a página declara produto original, importado e com Selo ADIPEC. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/perfumes-arabes/",
+                           "preco":  339.9,
+                           "tipo":  "promocao",
+                           "observacao":  "Fakhar Black 100 ml, de R$ 439,77 por R$ 339,90. A loja declara Selo ADIPEC e compra de representantes oficiais. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Mediana dos 3 preços de fontes qualificadas: R$ 299,00."
+    },
+    {
+        "id":  15,
+        "nome":  "Fakhar Rose",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Flor de laranjeira"
+                                           ],
+                                  "coracao":  [
+                                                  "Tuberosa",
+                                                  "Jasmim"
+                                              ],
+                                  "fundo":  [
+                                                "Vetiver",
+                                                "Patchouli"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/fakhar-lattafa-women/",
+        "preco_atual":  180,
+        "preco_recomendado":  388.4,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/produtos/fakhar-rose-lattafa-eau-de-parfum-perfume-feminino/",
+                           "preco":  339.9,
+                           "tipo":  "promocao",
+                           "observacao":  "Fakhar Rose 100 ml, de R$ 459,90 por R$ 339,90. A loja declara Selo ADIPEC e compra de representantes oficiais. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Loys Perfumaria",
+                           "url":  "https://loysperfumaria.com.br/feminino/lattafa-fakhar-rose-feminino-eau-de-parfum/",
+                           "preco":  436.9,
+                           "tipo":  "regular",
+                           "observacao":  "Fakhar Rose 100 ml; a loja declara produtos originais com garantia de procedência e Selo ADIPEC. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Mediana das 2 fontes qualificadas (média central): R$ 388,40."
+    },
+    {
+        "id":  16,
+        "nome":  "Fakhar Extrait Gold",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Pimenta-rosa",
+                                               "Toranja",
+                                               "Cardamomo"
+                                           ],
+                                  "coracao":  [
+                                                  "Acorde solar",
+                                                  "Artemísia",
+                                                  "Tuberosa"
+                                              ],
+                                  "fundo":  [
+                                                "Cashmeran",
+                                                "Couro",
+                                                "Cistus",
+                                                "Âmbar"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/fakhar-lattafa-extrait/",
+        "preco_atual":  230,
+        "preco_recomendado":  459.9,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "GO Perfumaria",
+                           "url":  "https://goperfumaria.com.br/produtos/fakhar-gold-lattafa-eau-de-parfum-perfume-feminino/",
+                           "preco":  459.9,
+                           "tipo":  "regular",
+                           "observacao":  "Fakhar Gold/Extrait 100 ml. A loja declara Selo ADIPEC e compra de representantes oficiais. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma única fonte qualificada com produto e volume correspondentes; recomendado igual ao preço verificado, R$ 459,90."
+    },
+    {
+        "id":  17,
+        "nome":  "Qaed Al Fursan",
+        "volume":  "90 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Açafrão",
+                                               "Abacaxi"
+                                           ],
+                                  "coracao":  [
+                                                  "Jasmim",
+                                                  "Bálsamo de abeto"
+                                              ],
+                                  "fundo":  [
+                                                "Madeira de oud",
+                                                "Cedro",
+                                                "Âmbar"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/qaed-al-fursan/",
+        "preco_atual":  175,
+        "preco_recomendado":  359.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Hayaati 100 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Al Noble Ameer 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/arabes.html",
+                           "preco":  499.9,
+                           "tipo":  "comparavel_adipec",
+                           "observacao":  "Qaa\u0027ed 100 ml — R$ 499,90 usado somente como comparável; a Menahra declara perfumes originais com Selo ADIPEC. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Faixa Lattafa masculina oriental de 90–100 ml; usado o valor mediano qualificado e arredondado. Valor de referência arredondado: R$ 359,90."
+    },
+    {
+        "id":  18,
+        "nome":  "Qaed Al Fursan Unlimited",
+        "volume":  "90 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Abacaxi",
+                                               "Cítricos",
+                                               "Coco"
+                                           ],
+                                  "coracao":  [
+                                                  "Jasmim",
+                                                  "Frangipani",
+                                                  "Ylang-ylang"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Almíscar branco",
+                                                "Sândalo",
+                                                "Notas doces"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/qaed-al-fursan-unlimited/",
+        "preco_atual":  175,
+        "preco_recomendado":  359.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Hayaati 100 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Al Noble Ameer 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/arabes.html",
+                           "preco":  499.9,
+                           "tipo":  "comparavel_adipec",
+                           "observacao":  "Qaa\u0027ed 100 ml — R$ 499,90 usado somente como comparável; a Menahra declara perfumes originais com Selo ADIPEC. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Faixa Lattafa masculina/oriental de 90–100 ml, incluindo a família Qaed; usado o valor mediano qualificado. Valor de referência arredondado: R$ 359,90."
+    },
+    {
+        "id":  19,
+        "nome":  "Hayaati",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Maçã",
+                                               "Bergamota"
+                                           ],
+                                  "coracao":  [
+                                                  "Casca de canela",
+                                                  "Notas amadeiradas"
+                                              ],
+                                  "fundo":  [
+                                                "Almíscar",
+                                                "Baunilha"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/hayaati/",
+        "preco_atual":  185,
+        "preco_recomendado":  269.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "preco_regular_oficial",
+                           "observacao":  "Preço regular exato de Hayaati 100 ml exibido pela loja oficial brasileira; a operação declara fragrâncias 100% autênticas, direto da Lattafa. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Preço recomendado igual ao preço regular oficial brasileiro: R$ 269,90."
+    },
+    {
+        "id":  20,
+        "nome":  "Hayaati Gold Elixir",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Toranja",
+                                               "Bergamota",
+                                               "Cassis"
+                                           ],
+                                  "coracao":  [
+                                                  "Pêssego",
+                                                  "Açafrão",
+                                                  "Couro"
+                                              ],
+                                  "fundo":  [
+                                                "Vetiver",
+                                                "Baunilha",
+                                                "Almíscar",
+                                                "Acorde ambarado"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/hayaati-gold-elixir/",
+        "preco_atual":  220,
+        "preco_recomendado":  399.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Hayaati 100 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  399.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Asad Elixir 100 ml — R$ 399,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Aplicado posicionamento superior de versão Gold Elixir, ancorado no Hayaati base e em outro Elixir oficial de 100 ml. Valor de referência arredondado: R$ 399,90."
+    },
+    {
+        "id":  21,
+        "nome":  "Najdia",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Toranja",
+                                               "Mandarina"
+                                           ],
+                                  "coracao":  [
+                                                  "Notas especiadas",
+                                                  "Rosa",
+                                                  "Canela"
+                                              ],
+                                  "fundo":  [
+                                                "Âmbar",
+                                                "Couro",
+                                                "Patchouli",
+                                                "Notas amadeiradas"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/najdia/",
+        "preco_atual":  165,
+        "preco_recomendado":  269.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Hayaati 100 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Ana Abiyedh 60 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Al Noble Ameer 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Faixa de entrada oficial da Lattafa; adotado o menor patamar recorrente qualificado para uma estimativa conservadora. Valor de referência arredondado: R$ 269,90."
+    },
+    {
+        "id":  22,
+        "nome":  "Maahir Black Edition",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Pimenta-rosa",
+                                               "Pimenta-preta",
+                                               "Açafrão"
+                                           ],
+                                  "coracao":  [
+                                                  "Ruibarbo",
+                                                  "Cade",
+                                                  "Ládano",
+                                                  "Bálsamo de gurjum"
+                                              ],
+                                  "fundo":  [
+                                                "Couro",
+                                                "Cedro",
+                                                "Patchouli",
+                                                "Madeira guaiac",
+                                                "Almíscar",
+                                                "Musgo de árvore"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/maahir-black-edition/",
+        "preco_atual":  215,
+        "preco_recomendado":  499.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  499.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Maahir Legacy 100 ml — R$ 499,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Asad 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  439.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Bade\u0027e Al Oud Honor \u0026 Glory 100 ml — R$ 439,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. O principal comparável é o Maahir Legacy da mesma família e volume; os demais delimitam a faixa premium masculina oficial. Valor de referência arredondado: R$ 499,90."
+    },
+    {
+        "id":  23,
+        "nome":  "Maahir Legacy",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Lima",
+                                               "Toranja",
+                                               "Lavanda",
+                                               "Hortelã-verde",
+                                               "Abacaxi"
+                                           ],
+                                  "coracao":  [
+                                                  "Zimbro",
+                                                  "Alecrim",
+                                                  "Olíbano",
+                                                  "Gerânio",
+                                                  "Pimenta-preta"
+                                              ],
+                                  "fundo":  [
+                                                "Vetiver",
+                                                "Cashmeran",
+                                                "Ambrox",
+                                                "Musgo de carvalho",
+                                                "Fava-tonka"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/maahir-legacy/",
+        "preco_atual":  200,
+        "preco_recomendado":  499.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  499.9,
+                           "tipo":  "preco_regular_oficial",
+                           "observacao":  "Preço regular exato de Maahir Legacy 100 ml exibido pela loja oficial brasileira; a operação declara fragrâncias 100% autênticas, direto da Lattafa. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Preço recomendado igual ao preço regular oficial brasileiro: R$ 499,90."
+    },
+    {
+        "id":  24,
+        "nome":  "Ana Abiyedh Rouge",
+        "volume":  "60 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Pera Nashi",
+                                               "Kumquat",
+                                               "Bergamota"
+                                           ],
+                                  "coracao":  [
+                                                  "Caramelo",
+                                                  "Gerânio"
+                                              ],
+                                  "fundo":  [
+                                                "Âmbar-cinzento",
+                                                "Almíscar",
+                                                "Musgo de carvalho"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/ana-abiyedh-rouge/",
+        "preco_atual":  175,
+        "preco_recomendado":  269.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Ana Abiyedh 60 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Hayaati 100 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Referência principal da mesma família Ana Abiyedh e mesmo volume de 60 ml; Hayaati confirma o patamar oficial de entrada. Valor de referência arredondado: R$ 269,90."
+    },
+    {
+        "id":  25,
+        "nome":  "Ana Abiyedh White",
+        "volume":  "60 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Laranja",
+                                               "Bergamota"
+                                           ],
+                                  "coracao":  [
+                                                  "Pera",
+                                                  "Baunilha"
+                                              ],
+                                  "fundo":  [
+                                                "Almíscar",
+                                                "Âmbar seco"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/ana-abiyedh/",
+        "preco_atual":  175,
+        "preco_recomendado":  269.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "preco_regular_oficial",
+                           "observacao":  "Preço regular exato de Ana Abiyedh 60 ml exibido pela loja oficial brasileira; a operação declara fragrâncias 100% autênticas, direto da Lattafa. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Preço recomendado igual ao preço regular oficial brasileiro: R$ 269,90."
+    },
+    {
+        "id":  26,
+        "nome":  "Raghba",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Açúcar"
+                                           ],
+                                  "coracao":  [
+                                                  "Incenso"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Oud",
+                                                "Almíscar",
+                                                "Sândalo"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/raghba/",
+        "preco_atual":  170,
+        "preco_recomendado":  269.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Hayaati 100 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Ana Abiyedh 60 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Asad 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Faixa oficial de entrada da Lattafa; adotado o menor patamar recorrente para não superestimar o Raghba. Valor de referência arredondado: R$ 269,90."
+    },
+    {
+        "id":  27,
+        "nome":  "Qaa\u0027ed",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Açafrão",
+                                               "Noz-moscada"
+                                           ],
+                                  "coracao":  [
+                                                  "Sândalo",
+                                                  "Madeira de oud"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Âmbar",
+                                                "Couro"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/qaaed/",
+        "preco_atual":  180,
+        "preco_recomendado":  499.9,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/arabes.html",
+                           "preco":  499.9,
+                           "tipo":  "regular",
+                           "observacao":  "QAA\u0027ED Lattafa 100 ml. A Menahra declara perfumes originais com Selo ADIPEC. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma única fonte qualificada com produto e volume exatos; recomendado igual ao preço verificado, R$ 499,90."
+    },
+    {
+        "id":  28,
+        "nome":  "Al Noble Wazeer",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Maçã",
+                                               "Conhaque",
+                                               "Noz-moscada",
+                                               "Açafrão"
+                                           ],
+                                  "coracao":  [
+                                                  "Uísque",
+                                                  "Carvalho",
+                                                  "Cedro",
+                                                  "Sândalo"
+                                              ],
+                                  "fundo":  [
+                                                "Almíscar",
+                                                "Mirra",
+                                                "Ambroxan",
+                                                "Baunilha"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/al-noble-wazeer/",
+        "preco_atual":  200,
+        "preco_recomendado":  359.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "preco_regular_oficial",
+                           "observacao":  "Preço regular exato de Al Noble Wazeer 100 ml exibido pela loja oficial brasileira; a operação declara fragrâncias 100% autênticas, direto da Lattafa. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Preço recomendado igual ao preço regular oficial brasileiro: R$ 359,90."
+    },
+    {
+        "id":  29,
+        "nome":  "Al Noble Ameer",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Maçã",
+                                               "Pimenta-rosa",
+                                               "Alecrim"
+                                           ],
+                                  "coracao":  [
+                                                  "Cravo",
+                                                  "Notas florais"
+                                              ],
+                                  "fundo":  [
+                                                "Oud",
+                                                "Patchouli",
+                                                "Cipreste",
+                                                "Ládano",
+                                                "Vetiver"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/al-noble-ameer/",
+        "preco_atual":  200,
+        "preco_recomendado":  359.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "preco_regular_oficial",
+                           "observacao":  "Preço regular exato de Al Noble Ameer 100 ml exibido pela loja oficial brasileira; a operação declara fragrâncias 100% autênticas, direto da Lattafa. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Preço recomendado igual ao preço regular oficial brasileiro: R$ 359,90."
+    },
+    {
+        "id":  30,
+        "nome":  "Ramz Silver",
+        "volume":  "100 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Lavanda",
+                                               "Hortelã",
+                                               "Bergamota",
+                                               "Pera"
+                                           ],
+                                  "coracao":  [
+                                                  "Sálvia",
+                                                  "Cardamomo"
+                                              ],
+                                  "fundo":  [
+                                                "Baunilha",
+                                                "Âmbar",
+                                                "Patchouli",
+                                                "Almíscar"
+                                            ]
+                              },
+        "fonte_notas":  "https://lattafa.com/product/ramz-lattafa-silver/",
+        "preco_atual":  180,
+        "preco_recomendado":  319.9,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  269.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Hayaati 100 ml — R$ 269,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Asad 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Lattafa Brasil Oficial",
+                           "url":  "https://www.lattafabrasil.com/",
+                           "preco":  359.9,
+                           "tipo":  "comparavel_oficial",
+                           "observacao":  "Al Noble Ameer 100 ml — R$ 359,90 usado somente como comparável de faixa da mesma marca/linha; loja oficial brasileira, com autenticidade e procedência declaradas. Não é cotação do item estimado. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Estimativa conservadora de varejo premium, não uma cotação exata do produto. Ramz Silver foi posicionado entre a entrada oficial e a faixa masculina intermediária, com valor deliberadamente arredondado. Valor de referência arredondado: R$ 319,90."
+    },
+    {
+        "id":  31,
+        "nome":  "Club de Nuit Intense Man",
+        "volume":  "105 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Limão",
+                                               "Bergamota",
+                                               "Abacaxi",
+                                               "Groselha-preta",
+                                               "Maçã"
+                                           ],
+                                  "coracao":  [
+                                                  "Jasmim",
+                                                  "Rosa",
+                                                  "Bétula"
+                                              ],
+                                  "fundo":  [
+                                                "Almíscar",
+                                                "Âmbar-cinzento",
+                                                "Patchouli",
+                                                "Baunilha"
+                                            ]
+                              },
+        "fonte_notas":  "https://www.notasraras.com.br/produtos/club-de-nuit-intense-man/",
+        "preco_atual":  250,
+        "preco_recomendado":  699.9,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/todos-os-perfumes.html",
+                           "preco":  699.9,
+                           "tipo":  "regular",
+                           "observacao":  "Club de Nuit Intense Man EDT 105 ml. A Menahra declara perfumes originais com Selo ADIPEC. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma única fonte brasileira qualificada com produto e volume exatos; recomendado igual ao preço verificado, R$ 699,90."
+    },
+    {
+        "id":  32,
+        "nome":  "Club de Nuit Intense Woman",
+        "volume":  "100 ml",
+        "notas_verificadas":  null,
+        "fonte_notas":  null,
+        "preco_atual":  240,
+        "preco_recomendado":  599.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lojas Renner",
+                           "url":  "https://www.lojasrenner.com.br/lista/-/N-v10w2p",
+                           "preco":  599.9,
+                           "tipo":  "preco_atual_renner",
+                           "observacao":  "Club de Nuit Intense Woman EDP 100 ml anunciado pela Renner; preÃ§o verificado em 19/07/2026."
+                       }
+                   ],
+        "metodo":  "PreÃ§o exato do produto e volume na Renner em 19/07/2026."
+    },
+    {
+        "id":  33,
+        "nome":  "Club de Nuit Milestone",
+        "volume":  "105 ml",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Bergamota",
+                                               "Laranja",
+                                               "Cassis"
+                                           ],
+                                  "coracao":  [
+                                                  "Jasmim",
+                                                  "Rosa damascena",
+                                                  "Peônia"
+                                              ],
+                                  "fundo":  [
+                                                "Almíscar",
+                                                "Âmbar",
+                                                "Patchouli"
+                                            ]
+                              },
+        "fonte_notas":  "https://perfumesarabes.com.br/armaf-club-de-nuit-milestone-105-ml/",
+        "preco_atual":  230,
+        "preco_recomendado":  639.9,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "Menahra",
+                           "url":  "https://menahra.com.br/ambienteseguro/index.php/todos-os-perfumes.html",
+                           "preco":  639.9,
+                           "tipo":  "regular",
+                           "observacao":  "Club de Nuit Milestone EDP 105 ml. A Menahra declara perfumes originais com Selo ADIPEC. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma única fonte brasileira qualificada com produto e volume exatos; recomendado igual ao preço verificado, R$ 639,90."
+    },
+    {
+        "id":  34,
+        "nome":  "Club de Nuit Sillage",
+        "volume":  "105 ml",
+        "notas_verificadas":  null,
+        "fonte_notas":  null,
+        "preco_atual":  225,
+        "preco_recomendado":  799.9,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "Lojas Renner",
+                           "url":  "https://www.lojasrenner.com.br/ashua/p/perfume-club-de-nuit-sillage-eau-de-parfum/-/A-929313938-br.lr",
+                           "preco":  799.9,
+                           "tipo":  "preco_atual_renner",
+                           "observacao":  "Club de Nuit Sillage EDP 105 ml vendido e entregue por Lojas Renner; preÃ§o verificado em 19/07/2026."
+                       }
+                   ],
+        "metodo":  "PreÃ§o exato do produto e volume na Renner em 19/07/2026."
+    }
+]

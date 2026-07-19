@@ -1,0 +1,878 @@
+[
+    {
+        "id":  68,
+        "nome":  "Tobacco Touch",
+        "volume":  80,
+        "preco_atual":  145.00,
+        "preco_recomendado":  299.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Jean Lowe Immortel",
+                           "url":  "https://www.lojabit.com/perfume-arabe-jean-lowe-immortel-100ml-maison-alhambra-eau-de-parfum",
+                           "preco":  289.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Maison Alhambra de 100 ml, com Selo ADIPEC declarado pela loja; não é cotação do Tobacco Touch."
+                       },
+                       {
+                           "loja":  "LojaBit — comparável Delilah",
+                           "url":  "https://www.lojabit.com/perfume-arabes-delilah-100ml-eau-de-parfum-maison-alhambra",
+                           "preco":  329.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Maison Alhambra de 100 ml, com Selo ADIPEC declarado pela loja; não é cotação do Tobacco Touch."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Partiu da mediana de R$ 309,90 entre dois comparáveis qualificados Maison Alhambra de 100 ml e aplicou ajuste conservador para o frasco de 80 ml, arredondando para R$ 299,90.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Tabaco",
+                                               "Notas Especiadas"
+                                           ],
+                                  "coracao":  [
+                                                  "Tabaco",
+                                                  "Baunilha",
+                                                  "Fava Tonka",
+                                                  "Cacau"
+                                              ],
+                                  "fundo":  [
+                                                "Frutas Secas",
+                                                "Notas Amadeiradas"
+                                            ]
+                              },
+        "fonte_notas":  "https://tabsperfumes.com.br/produtos/decant-maison-alhambra-tobacco-touch/"
+    },
+    {
+        "id":  69,
+        "nome":  "Amber \u0026 Leather",
+        "volume":  100,
+        "preco_atual":  140.00,
+        "preco_recomendado":  309.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Jean Lowe Immortel",
+                           "url":  "https://www.lojabit.com/perfume-arabe-jean-lowe-immortel-100ml-maison-alhambra-eau-de-parfum",
+                           "preco":  289.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Maison Alhambra de 100 ml com Selo ADIPEC; não é cotação do Amber \u0026 Leather."
+                       },
+                       {
+                           "loja":  "LojaBit — comparável Delilah",
+                           "url":  "https://www.lojabit.com/perfume-arabes-delilah-100ml-eau-de-parfum-maison-alhambra",
+                           "preco":  329.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Maison Alhambra de 100 ml com Selo ADIPEC; não é cotação do Amber \u0026 Leather."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Mediana de dois comparáveis qualificados Maison Alhambra de 100 ml (R$ 289,90 e R$ 329,90): R$ 309,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  70,
+        "nome":  "Victorioso Legend",
+        "volume":  100,
+        "preco_atual":  140.00,
+        "preco_recomendado":  309.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Jean Lowe Immortel",
+                           "url":  "https://www.lojabit.com/perfume-arabe-jean-lowe-immortel-100ml-maison-alhambra-eau-de-parfum",
+                           "preco":  289.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Maison Alhambra de 100 ml com Selo ADIPEC; não é cotação do Victorioso Legend."
+                       },
+                       {
+                           "loja":  "LojaBit — comparável Delilah",
+                           "url":  "https://www.lojabit.com/perfume-arabes-delilah-100ml-eau-de-parfum-maison-alhambra",
+                           "preco":  329.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Maison Alhambra de 100 ml com Selo ADIPEC; não é cotação do Victorioso Legend."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Mediana de dois comparáveis qualificados Maison Alhambra de 100 ml (R$ 289,90 e R$ 329,90): R$ 309,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  71,
+        "nome":  "Victorioso Myth",
+        "volume":  100,
+        "preco_atual":  140.00,
+        "preco_recomendado":  309.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Jean Lowe Immortel",
+                           "url":  "https://www.lojabit.com/perfume-arabe-jean-lowe-immortel-100ml-maison-alhambra-eau-de-parfum",
+                           "preco":  289.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Maison Alhambra de 100 ml com Selo ADIPEC; não é cotação do Victorioso Myth."
+                       },
+                       {
+                           "loja":  "LojaBit — comparável Delilah",
+                           "url":  "https://www.lojabit.com/perfume-arabes-delilah-100ml-eau-de-parfum-maison-alhambra",
+                           "preco":  329.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Maison Alhambra de 100 ml com Selo ADIPEC; não é cotação do Victorioso Myth."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Mediana de dois comparáveis qualificados Maison Alhambra de 100 ml (R$ 289,90 e R$ 329,90): R$ 309,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  72,
+        "nome":  "Hercules",
+        "volume":  100,
+        "preco_atual":  145.00,
+        "preco_recomendado":  279.90,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabe-hercules-100ml-maison-alhambra-eau-de-parfum",
+                           "preco":  279.90,
+                           "tipo":  "regular",
+                           "observacao":  "Frasco de 100 ml, estoque disponível. A loja declara trabalhar somente com perfumes originais com Selo ADIPEC e compra direta das principais distribuidoras brasileiras. Preço regular, sem usar desconto Pix; consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma fonte qualificada exata. Recomendação igual ao preço regular de varejo observado; frete excluído; confiança baixa por haver apenas uma fonte.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  73,
+        "nome":  "Delilah",
+        "volume":  100,
+        "preco_atual":  140.00,
+        "preco_recomendado":  329.90,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabes-delilah-100ml-eau-de-parfum-maison-alhambra",
+                           "preco":  329.90,
+                           "tipo":  "regular",
+                           "observacao":  "Página do produto com opção de frasco de 100 ml e estoque disponível. A loja declara Selo ADIPEC e compra direta de distribuidoras brasileiras. Preço regular, sem desconto Pix; consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma fonte qualificada exata. Recomendação igual ao preço regular da opção de 100 ml; frete excluído; confiança baixa por haver apenas uma fonte.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  74,
+        "nome":  "Jean Lowe Immortal",
+        "volume":  100,
+        "preco_atual":  140.00,
+        "preco_recomendado":  289.90,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabe-jean-lowe-immortel-100ml-maison-alhambra-eau-de-parfum",
+                           "preco":  289.90,
+                           "tipo":  "regular",
+                           "observacao":  "Mesmo perfume sob a grafia comercial atual Immortel; opção de 100 ml. A loja declara Selo ADIPEC e compra direta de distribuidoras brasileiras. Preço regular, sem desconto Pix; consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma fonte qualificada exata, considerando Immortel como a grafia atual de Immortal. Recomendação igual ao preço regular de 100 ml; frete excluído; confiança baixa.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  75,
+        "nome":  "Jean Lowe Ombre",
+        "volume":  100,
+        "preco_atual":  140.00,
+        "preco_recomendado":  339.45,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "Flow NY Imports",
+                           "url":  "https://www.flownyimports.com.br/produtos/jean-lowe-noir-100ml/",
+                           "preco":  299.00,
+                           "tipo":  "lista",
+                           "observacao":  "Frasco de 100 ml atualmente chamado Jean Lowe Noir (antigo Ombre); preço de lista de R$ 299,00, com promoção à parte. A loja declara produtos originais com Selo ADIPEC. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabe-jean-lowe-noir-maison-alhambra-eau-de-parfum",
+                           "preco":  379.90,
+                           "tipo":  "regular",
+                           "observacao":  "Frasco de 100 ml sob o nome atual Noir. A loja declara Selo ADIPEC e compra direta de distribuidoras brasileiras. Preço regular, sem desconto Pix; consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Mediana de dois preços regulares/lista qualificados para o sucessor comercial Jean Lowe Noir: (R$ 299,00 + R$ 379,90) / 2 = R$ 339,45; frete excluído.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Agarwood (Oud)",
+                                               "Incenso"
+                                           ],
+                                  "coracao":  [
+                                                  "Açafrão",
+                                                  "Rosa",
+                                                  "Framboesa",
+                                                  "Vidoeiro"
+                                              ],
+                                  "fundo":  [
+                                                "Âmbar",
+                                                "Benjoim",
+                                                "Gerânio"
+                                            ]
+                              },
+        "fonte_notas":  "https://www.flownyimports.com.br/produtos/jean-lowe-noir-100ml/"
+    },
+    {
+        "id":  76,
+        "nome":  "Hawas for Men",
+        "volume":  100,
+        "preco_atual":  260.00,
+        "preco_recomendado":  509.90,
+        "confianca":  "alta",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabe-hawas-for-him-100ml-rasasi-eau-de-parfum",
+                           "preco":  359.90,
+                           "tipo":  "regular",
+                           "observacao":  "Frasco de 100 ml e estoque disponível. Loja com declaração explícita de Selo ADIPEC e compra direta de distribuidoras brasileiras. Preço regular, sem Pix; consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Eyvor Perfumaria",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "lista",
+                           "observacao":  "Frasco de 100 ml; preço de lista antes da promoção. A loja declara cada perfume autenticado por Selo ADIPEC e Selo da Importadora. Consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Loy\u0027s Perfumaria",
+                           "url":  "https://loysperfumaria.com.br/masculino/rasasi-hawas-for-him-masculino-eau-de-parfum/",
+                           "preco":  712.90,
+                           "tipo":  "regular",
+                           "observacao":  "Frasco de 100 ml. A loja declara garantia de procedência e Selo ADIPEC. Preço regular, sem desconto Pix; consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Mediana de três preços regulares/lista qualificados (R$ 359,90, R$ 509,90 e R$ 712,90): R$ 509,90; frete excluído.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Maçã",
+                                               "Bergamota",
+                                               "Limão",
+                                               "Canela"
+                                           ],
+                                  "coracao":  [
+                                                  "Notas Aquosas",
+                                                  "Ameixa",
+                                                  "Flor de Laranjeira",
+                                                  "Cardamomo"
+                                              ],
+                                  "fundo":  [
+                                                "Âmbar Cinzento",
+                                                "Almíscar",
+                                                "Madeira Flutuante",
+                                                "Patchouli"
+                                            ]
+                              },
+        "fonte_notas":  "https://loysperfumaria.com.br/masculino/rasasi-hawas-for-him-masculino-eau-de-parfum/"
+    },
+    {
+        "id":  77,
+        "nome":  "Hawas Ice for Men",
+        "volume":  100,
+        "preco_atual":  240.00,
+        "preco_recomendado":  469.90,
+        "confianca":  "media",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabe-hawas-ice-100ml-rasasi-eau-de-parfum",
+                           "preco":  429.90,
+                           "tipo":  "regular",
+                           "observacao":  "Frasco de 100 ml e estoque disponível. Loja com declaração explícita de Selo ADIPEC e compra direta de distribuidoras brasileiras. Preço regular, sem Pix; consulta em 2026-07-12."
+                       },
+                       {
+                           "loja":  "Eyvor Perfumaria",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "lista",
+                           "observacao":  "Frasco de 100 ml; preço de lista antes da promoção. A loja declara Selo ADIPEC e Selo da Importadora. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Mediana de dois preços regulares/lista qualificados: (R$ 429,90 + R$ 509,90) / 2 = R$ 469,90; frete excluído.",
+        "notas_verificadas":  {
+                                  "topo":  [
+                                               "Maçã Congelada",
+                                               "Bergamota Italiana",
+                                               "Limão Italiano",
+                                               "Anis Estrelado"
+                                           ],
+                                  "coracao":  [
+                                                  "Flor de Laranjeira",
+                                                  "Acorde Marinho Gelado",
+                                                  "Ameixa",
+                                                  "Cardamomo"
+                                              ],
+                                  "fundo":  [
+                                                "Musgo de Cristal",
+                                                "Madeira Flutuante",
+                                                "Âmbar",
+                                                "Almíscar"
+                                            ]
+                              },
+        "fonte_notas":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/"
+    },
+    {
+        "id":  78,
+        "nome":  "Hawas for Women",
+        "volume":  100,
+        "preco_atual":  250.00,
+        "preco_recomendado":  509.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Eyvor — comparável Hawas For Him",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi da linha Hawas, 100 ml, com Selo ADIPEC e Selo da Importadora declarados; não é cotação do Hawas for Women."
+                       },
+                       {
+                           "loja":  "Eyvor — comparável Hawas Ice",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi da linha Hawas, 100 ml, com Selo ADIPEC e Selo da Importadora declarados; não é cotação do Hawas for Women."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Referência premium de varejo obtida de dois comparáveis qualificados da linha Hawas de 100 ml, ambos com preço de lista de R$ 509,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  79,
+        "nome":  "La Yuqawam Pour Homme",
+        "volume":  75,
+        "preco_atual":  305.00,
+        "preco_recomendado":  489.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Eyvor — comparável Hawas For Him",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do La Yuqawam."
+                       },
+                       {
+                           "loja":  "Eyvor — comparável Hawas Ice",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do La Yuqawam."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Partiu do benchmark Rasasi premium de R$ 509,90 para 100 ml e aplicou ajuste conservador de aproximadamente 4% para 75 ml, chegando a R$ 489,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  80,
+        "nome":  "Shaghaf Pour Homme",
+        "volume":  100,
+        "preco_atual":  245.00,
+        "preco_recomendado":  509.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Eyvor — comparável Hawas For Him",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Shaghaf Pour Homme."
+                       },
+                       {
+                           "loja":  "Eyvor — comparável Hawas Ice",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Shaghaf Pour Homme."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Referência premium de varejo baseada em dois comparáveis Rasasi qualificados de 100 ml, ambos com preço de lista de R$ 509,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  81,
+        "nome":  "Daarej Pour Homme",
+        "volume":  100,
+        "preco_atual":  220.00,
+        "preco_recomendado":  509.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Eyvor — comparável Hawas For Him",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Daarej."
+                       },
+                       {
+                           "loja":  "Eyvor — comparável Hawas Ice",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Daarej."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Referência premium de varejo baseada em dois comparáveis Rasasi qualificados de 100 ml, ambos com preço de lista de R$ 509,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  82,
+        "nome":  "Fattan",
+        "volume":  50,
+        "preco_atual":  210.00,
+        "preco_recomendado":  439.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Eyvor — comparável Hawas For Him",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Fattan."
+                       },
+                       {
+                           "loja":  "Eyvor — comparável Hawas Ice",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Fattan."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Partiu do benchmark Rasasi premium de R$ 509,90 para 100 ml e aplicou redução moderada de aproximadamente 14% para 50 ml, preservando o prêmio de embalagem e marca: R$ 439,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  83,
+        "nome":  "Qasamat Rasana",
+        "volume":  65,
+        "preco_atual":  210.00,
+        "preco_recomendado":  459.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Eyvor — comparável Hawas For Him",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Qasamat Rasana."
+                       },
+                       {
+                           "loja":  "Eyvor — comparável Hawas Ice",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Qasamat Rasana."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Partiu do benchmark Rasasi premium de R$ 509,90 para 100 ml e aplicou ajuste conservador de aproximadamente 10% para 65 ml: R$ 459,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  84,
+        "nome":  "Qasamat Bareeq",
+        "volume":  65,
+        "preco_atual":  210.00,
+        "preco_recomendado":  459.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Eyvor — comparável Hawas For Him",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Qasamat Bareeq."
+                       },
+                       {
+                           "loja":  "Eyvor — comparável Hawas Ice",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Qasamat Bareeq."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Partiu do benchmark Rasasi premium de R$ 509,90 para 100 ml e aplicou ajuste conservador de aproximadamente 10% para 65 ml: R$ 459,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  85,
+        "nome":  "Al Wisam Day",
+        "volume":  100,
+        "preco_atual":  245.00,
+        "preco_recomendado":  509.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Eyvor — comparável Hawas For Him",
+                           "url":  "https://eyvor.com.br/hawas-for-him-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Al Wisam Day."
+                       },
+                       {
+                           "loja":  "Eyvor — comparável Hawas Ice",
+                           "url":  "https://eyvor.com.br/hawas-ice-rasasi-perfume-arabe-masculino-edp/",
+                           "preco":  509.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Rasasi qualificado de 100 ml; não é cotação do Al Wisam Day."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Referência premium de varejo baseada em dois comparáveis Rasasi qualificados de 100 ml, ambos com preço de lista de R$ 509,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  86,
+        "nome":  "Amber Oud Gold Edition",
+        "volume":  60,
+        "preco_atual":  275.00,
+        "preco_recomendado":  389.90,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabe-haramain-amber-oud-gold-edition-al-haramain-eau-de-parfum",
+                           "preco":  389.90,
+                           "tipo":  "regular",
+                           "observacao":  "Opção de 60 ml, estoque disponível. A loja declara trabalhar com perfumes originais com Selo ADIPEC e compra direta de distribuidoras brasileiras. Preço regular, sem Pix; consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma fonte qualificada exata. Recomendação igual ao preço regular da opção de 60 ml; frete excluído; confiança baixa por haver apenas uma fonte.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  87,
+        "nome":  "Amber Oud Tobacco Edition",
+        "volume":  60,
+        "preco_atual":  290.00,
+        "preco_recomendado":  389.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Amber Oud Gold Edition",
+                           "url":  "https://www.lojabit.com/perfume-arabe-haramain-amber-oud-gold-edition-al-haramain-eau-de-parfum",
+                           "preco":  389.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável exato da linha Al Haramain Amber Oud em 60 ml, com Selo ADIPEC declarado; não é cotação do Tobacco Edition."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Foi replicado o preço regular qualificado de R$ 389,90 do Amber Oud Gold Edition, mesma marca, linha e volume de 60 ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  88,
+        "nome":  "Amber Oud Rouge",
+        "volume":  60,
+        "preco_atual":  275.00,
+        "preco_recomendado":  389.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Amber Oud Gold Edition",
+                           "url":  "https://www.lojabit.com/perfume-arabe-haramain-amber-oud-gold-edition-al-haramain-eau-de-parfum",
+                           "preco":  389.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável exato da linha Al Haramain Amber Oud em 60 ml, com Selo ADIPEC declarado; não é cotação do Rouge."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Foi replicado o preço regular qualificado de R$ 389,90 do Amber Oud Gold Edition, mesma marca, linha e volume de 60 ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  89,
+        "nome":  "L\u0027Aventure",
+        "volume":  null,
+        "preco_atual":  300.00,
+        "preco_recomendado":  449.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Amber Oud Gold Edition",
+                           "url":  "https://www.lojabit.com/perfume-arabe-haramain-amber-oud-gold-edition-al-haramain-eau-de-parfum",
+                           "preco":  389.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Al Haramain qualificado de 60 ml, com Selo ADIPEC; não é cotação do L\u0027Aventure."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Partiu do benchmark Al Haramain qualificado de R$ 389,90 em 60 ml e aplicou acréscimo moderado de cerca de 15% para uma apresentação maior/premium, arredondando para R$ 449,90. O volume do item segue não confirmado no cadastro.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  90,
+        "nome":  "Detour Noir",
+        "volume":  100,
+        "preco_atual":  250.00,
+        "preco_recomendado":  449.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Amber Oud Gold Edition",
+                           "url":  "https://www.lojabit.com/perfume-arabe-haramain-amber-oud-gold-edition-al-haramain-eau-de-parfum",
+                           "preco":  389.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Al Haramain qualificado de 60 ml, com Selo ADIPEC; não é cotação do Detour Noir."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Partiu do benchmark Al Haramain qualificado de R$ 389,90 em 60 ml e aplicou acréscimo moderado de cerca de 15% para o frasco de 100 ml, arredondando para R$ 449,90.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  91,
+        "nome":  "Shaghaf Oud",
+        "volume":  75,
+        "preco_atual":  215.00,
+        "preco_recomendado":  399.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Swiss Arabian — loja oficial",
+                           "url":  "https://us.swissarabian.com/collections/shaghaf",
+                           "preco":  44.00,
+                           "tipo":  "comparavel_oficial_usd",
+                           "observacao":  "Preço oficial de US$ 44,00 para Shaghaf Oud na coleção oficial. Valor informado em dólar apenas como referência de posicionamento da linha; não é cotação brasileira."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata no Brasil. O preço oficial da própria Swiss Arabian foi usado para posicionar o Shaghaf Oud como entrada da linha; a referência foi convertida em faixa conservadora de varejo premium nacional e arredondada para R$ 399,90, sem alegar câmbio ou imposto exatos.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  92,
+        "nome":  "Shaghaf Oud Tonka",
+        "volume":  75,
+        "preco_atual":  215.00,
+        "preco_recomendado":  579.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Swiss Arabian — loja oficial",
+                           "url":  "https://us.swissarabian.com/products/shaghaf-oud-tonka",
+                           "preco":  64.00,
+                           "tipo":  "comparavel_oficial_usd",
+                           "observacao":  "Preço oficial de US$ 64,00 para Shaghaf Oud Tonka EDP 75 ml. Valor em dólar usado somente como referência oficial da mesma linha e volume; não é cotação brasileira."
+                       },
+                       {
+                           "loja":  "Swiss Arabian — comparável Shaghaf Oud",
+                           "url":  "https://us.swissarabian.com/collections/shaghaf",
+                           "preco":  44.00,
+                           "tipo":  "comparavel_oficial_usd",
+                           "observacao":  "Comparável oficial Shaghaf Oud de US$ 44,00, usado para medir o prêmio relativo do Tonka dentro da mesma linha."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata no Brasil. O prêmio oficial do Tonka sobre o Shaghaf Oud básico, dentro da mesma linha e em 75 ml, foi transportado para uma faixa conservadora de varejo premium nacional: R$ 579,90. Não representa conversão cambial exata.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  93,
+        "nome":  "Casablanca",
+        "volume":  100,
+        "preco_atual":  225.00,
+        "preco_recomendado":  549.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Swiss Arabian — catálogo oficial",
+                           "url":  "https://swissarabian.com/de/collections",
+                           "preco":  61.00,
+                           "tipo":  "comparavel_oficial_usd",
+                           "observacao":  "Catálogo oficial lista Casablanca por US$ 61,00. Valor em dólar usado somente para posicionamento oficial da marca; não é cotação brasileira."
+                       },
+                       {
+                           "loja":  "Swiss Arabian — comparável Shaghaf Oud Tonka",
+                           "url":  "https://us.swissarabian.com/products/shaghaf-oud-tonka",
+                           "preco":  64.00,
+                           "tipo":  "comparavel_oficial_usd",
+                           "observacao":  "Comparável oficial premium da mesma marca por US$ 64,00, usado para balizar o teto da faixa; não é cotação do Casablanca no Brasil."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata no Brasil. A posição oficial do Casablanca (US$ 61,00) foi comparada à linha premium da própria Swiss Arabian e traduzida em faixa conservadora de varejo premium nacional, arredondada para R$ 549,90; não é conversão cambial exata.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  94,
+        "nome":  "Royal Amber",
+        "volume":  80,
+        "preco_atual":  160.00,
+        "preco_recomendado":  919.90,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabe-royal-amber-80ml-eau-de-parfum-orientica",
+                           "preco":  919.90,
+                           "tipo":  "lista",
+                           "observacao":  "Royal Amber Orientica Eau de Parfum de 80 ml; preço de lista de R$ 919,90 e promoção separada de R$ 589,90. A loja declara Selo ADIPEC e compra direta de distribuidoras brasileiras. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma fonte qualificada exata. Conforme o critério solicitado, foi usado o preço de lista, não a promoção nem o Pix; frete excluído; confiança baixa.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  95,
+        "nome":  "Oud Saffron",
+        "volume":  80,
+        "preco_atual":  160.00,
+        "preco_recomendado":  919.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Royal Amber",
+                           "url":  "https://www.lojabit.com/perfume-arabe-royal-amber-80ml-eau-de-parfum-orientica",
+                           "preco":  919.90,
+                           "tipo":  "comparavel_lista",
+                           "observacao":  "Comparável Orientica Eau de Parfum de 80 ml, com Selo ADIPEC declarado pela loja; não é cotação do Oud Saffron."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Foi replicado o preço de lista premium de R$ 919,90 do Royal Amber, comparável qualificado da mesma marca, concentração comercial e volume de 80 ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  96,
+        "nome":  "Kayaan Classic",
+        "volume":  100,
+        "preco_atual":  140.00,
+        "preco_recomendado":  289.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit — comparável Sabah Al Ward",
+                           "url":  "https://www.lojabit.com/perfume-al-wataniah-khususi-sabah-al-ward-100ml-eau-de-parfum",
+                           "preco":  289.90,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Al Wataniah de 100 ml, com Selo ADIPEC declarado; não é cotação do Kayaan Classic."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. Foi replicado o preço regular de R$ 289,90 do Sabah Al Ward, comparável qualificado da mesma marca e volume de 100 ml.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  97,
+        "nome":  "Sabah Al Ward",
+        "volume":  100,
+        "preco_atual":  130.00,
+        "preco_recomendado":  289.90,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-al-wataniah-khususi-sabah-al-ward-100ml-eau-de-parfum",
+                           "preco":  289.90,
+                           "tipo":  "regular",
+                           "observacao":  "Frasco de 100 ml e estoque disponível. A loja declara perfumes originais com Selo ADIPEC e compra direta de distribuidoras brasileiras. Preço regular, sem Pix; consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma fonte qualificada exata. Recomendação igual ao preço regular de 100 ml; frete excluído; confiança baixa por haver apenas uma fonte.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  98,
+        "nome":  "Ameerat Al Arab",
+        "volume":  100,
+        "preco_atual":  120.00,
+        "preco_recomendado":  359.90,
+        "confianca":  "baixa",
+        "fontes":  [
+                       {
+                           "loja":  "LojaBit",
+                           "url":  "https://www.lojabit.com/perfume-arabe-ameerat-al-arab-100ml-asdaaf-eau-de-parfum",
+                           "preco":  359.90,
+                           "tipo":  "lista",
+                           "observacao":  "Frasco de 100 ml; preço de lista de R$ 359,90 e promoção separada de R$ 289,90. A loja declara perfumes originais com Selo ADIPEC e compra direta de distribuidoras brasileiras. Consulta em 2026-07-12."
+                       }
+                   ],
+        "metodo":  "Uma fonte qualificada exata. Conforme o critério solicitado, foi usado o preço de lista, não a promoção nem o Pix; frete excluído; confiança baixa.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  99,
+        "nome":  "Dirham",
+        "volume":  null,
+        "preco_atual":  110.00,
+        "preco_recomendado":  299.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Outlet Bolsas de Luxo — comparável I Am The Queen",
+                           "url":  "https://www.outletbolsasdeluxo.com.br/perfumes-arabes/perfume-i-am-the-queen-for-women-edp-100-ml",
+                           "preco":  189.00,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Ard Al Zaafaran de 100 ml. A loja declara Selo ADIPEC, fornecedor oficial da marca no Brasil e nota fiscal; não é cotação do Dirham."
+                       },
+                       {
+                           "loja":  "Fran Makes — comparável Manaal",
+                           "url":  "https://franmakes.com.br/ard-al-zaafaran-manaal-eau-de-parfum-perfume-feminino100ml/",
+                           "preco":  399.00,
+                           "tipo":  "comparavel_regular",
+                           "observacao":  "Comparável Ard Al Zaafaran de 100 ml com Selo Original ADIPEC declarado; não é cotação do Dirham."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata. A mediana dos dois comparáveis Ard Al Zaafaran qualificados de 100 ml é R$ 294,00; o valor foi arredondado para uma etiqueta premium de R$ 299,90. O volume do Dirham permanece não confirmado no cadastro.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    },
+    {
+        "id":  100,
+        "nome":  "Hareem Al Sultan Gold",
+        "volume":  35,
+        "preco_atual":  100.00,
+        "preco_recomendado":  249.90,
+        "confianca":  "estimada",
+        "fontes":  [
+                       {
+                           "loja":  "Khadlaj Perfumes — loja oficial Índia",
+                           "url":  "https://khadlaj-perfumes.in/products/hareem-al-sultan-gold-35ml",
+                           "preco":  1900.00,
+                           "tipo":  "comparavel_oficial_inr_lista",
+                           "observacao":  "Produto oficial exato Hareem Al Sultan Gold óleo concentrado 35 ml; preço de lista de ₹ 1.900,00 e promoção de ₹ 1.425,00. Referência internacional, não cotação brasileira."
+                       },
+                       {
+                           "loja":  "Khadlaj Perfumes — página oficial da linha",
+                           "url":  "https://khadlaj-perfumes.myshopify.com/pages/hareem-al-sultan",
+                           "preco":  100.00,
+                           "tipo":  "comparavel_oficial_aed",
+                           "observacao":  "Página oficial da linha Hareem Al Sultan lista o Gold 35 ml por AED 100,00. Referência internacional, não cotação brasileira."
+                       },
+                       {
+                           "loja":  "Tabs Perfumes — validação nacional Khadlaj",
+                           "url":  "https://tabsperfumes.com.br/produtos/decant-khadlaj-island-dreams-1sd2c/",
+                           "preco":  24.90,
+                           "tipo":  "comparavel_decant_adipec",
+                           "observacao":  "Decant de outro Khadlaj com Selo ADIPEC declarado; usado apenas para confirmar presença qualificada da marca no mercado nacional, não para extrapolação por ml."
+                       }
+                   ],
+        "metodo":  "Estimativa, não cotação exata no Brasil. As referências oficiais do próprio Hareem Al Sultan Gold 35 ml foram usadas para posicionar o produto, e a presença nacional ADIPEC da marca foi validada separadamente. A faixa conservadora de varejo premium foi arredondada para R$ 249,90, sem alegar conversão cambial ou tributária exata.",
+        "notas_verificadas":  null,
+        "fonte_notas":  null
+    }
+]

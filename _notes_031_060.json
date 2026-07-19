@@ -1,0 +1,756 @@
+[
+  {
+    "id": 31,
+    "nome": "Club de Nuit Intense Man",
+    "notas_verificadas": {
+      "topo": [
+        "Maçã",
+        "Bergamota",
+        "Groselha-preta",
+        "Abacaxi",
+        "Limão"
+      ],
+      "coracao": [
+        "Rosa",
+        "Bétula",
+        "Jasmim"
+      ],
+      "fundo": [
+        "Almíscar",
+        "Âmbar-cinzento",
+        "Patchouli",
+        "Baunilha"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/club-de-nuit-intense-for-man",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 32,
+    "nome": "Club de Nuit Intense Woman",
+    "notas_verificadas": {
+      "topo": [
+        "Rosa",
+        "Açafrão",
+        "Gerânio"
+      ],
+      "coracao": [
+        "Pimenta",
+        "Noz-moscada",
+        "Violeta",
+        "Alcarávia"
+      ],
+      "fundo": [
+        "Patchouli",
+        "Agarwood (oud)",
+        "Baunilha",
+        "Âmbar"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/blogs/news/what-are-fragrance-notes-why-do-they-matter-for-women",
+    "tipo_fonte": "oficial_marca_blog",
+    "confianca": "alta"
+  },
+  {
+    "id": 33,
+    "nome": "Club de Nuit Milestone",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Frutas vermelhas",
+        "Acordes marinhos"
+      ],
+      "coracao": [
+        "Violeta",
+        "Sândalo",
+        "Madeira branca"
+      ],
+      "fundo": [
+        "Vetiver",
+        "Almíscar",
+        "Ambroxan"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/club-de-nuit-milestone",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 34,
+    "nome": "Club de Nuit Sillage",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Limão",
+        "Lima",
+        "Gengibre",
+        "Groselha-preta",
+        "Folhas de violeta"
+      ],
+      "coracao": [
+        "Jasmim",
+        "Íris",
+        "Rosa"
+      ],
+      "fundo": [
+        "Sândalo",
+        "Cedro",
+        "Almíscar",
+        "Ambroxan"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/armaf-club-de-nuit-silage-men",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 35,
+    "nome": "Club de Nuit Untold",
+    "notas_verificadas": {
+      "topo": [
+        "Açafrão",
+        "Jasmim"
+      ],
+      "coracao": [
+        "Madeira ambarada",
+        "Âmbar-cinzento"
+      ],
+      "fundo": [
+        "Resina de abeto",
+        "Cedro"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/armaf-club-de-nuit-untold",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 36,
+    "nome": "Club de Nuit Iconic",
+    "notas_verificadas": {
+      "topo": [
+        "Toranja",
+        "Limão",
+        "Hortelã",
+        "Pimenta-rosa",
+        "Coentro"
+      ],
+      "coracao": [
+        "Gengibre",
+        "Noz-moscada",
+        "Jasmim",
+        "Melão"
+      ],
+      "fundo": [
+        "Incenso",
+        "Âmbar",
+        "Cedro",
+        "Sândalo",
+        "Patchouli",
+        "Ládano",
+        "Notas amadeiradas"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/club-de-nuit-blue-iconic-200ml",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 37,
+    "nome": "Club de Nuit White Imperiale",
+    "notas_verificadas": {
+      "topo": [
+        "Lichia",
+        "Bergamota",
+        "Noz-moscada"
+      ],
+      "coracao": [
+        "Rosa turca",
+        "Peônia",
+        "Almíscar",
+        "Baunilha"
+      ],
+      "fundo": [
+        "Cashmeran",
+        "Cedro",
+        "Incenso",
+        "Vetiver"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/club-de-nuit-imperiale-copy",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 38,
+    "nome": "Tres Nuit",
+    "notas_verificadas": {
+      "topo": [
+        "Limão",
+        "Verbena",
+        "Íris"
+      ],
+      "coracao": [
+        "Lavanda",
+        "Acordes especiados",
+        "Violeta"
+      ],
+      "fundo": [
+        "Âmbar-cinzento",
+        "Sândalo"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/tres-nuit",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 39,
+    "nome": "Hunter Intense",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Pomelo",
+        "Mandarina",
+        "Limão"
+      ],
+      "coracao": [
+        "Lavanda",
+        "Gerânio",
+        "Ylang-ylang",
+        "Tuberosa"
+      ],
+      "fundo": [
+        "Pimenta-preta",
+        "Cardamomo"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/hunter-intense-1",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 40,
+    "nome": "Ventana",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Toranja",
+        "Mandarina",
+        "Limão",
+        "Frutas vermelhas"
+      ],
+      "coracao": [
+        "Gerânio",
+        "Lavanda",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "fundo": [
+        "Cedro",
+        "Madeiras preciosas",
+        "Ládano",
+        "Âmbar"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/ventana-gift-set-for-men",
+    "tipo_fonte": "oficial_marca_gift_set",
+    "confianca": "alta"
+  },
+  {
+    "id": 41,
+    "nome": "Odyssey Homme",
+    "notas_verificadas": {
+      "topo": [
+        "Mandarina",
+        "Néroli",
+        "Cardamomo"
+      ],
+      "coracao": [
+        "Rosa",
+        "Flor de laranjeira"
+      ],
+      "fundo": [
+        "Sândalo",
+        "Baunilha",
+        "Âmbar",
+        "Acordes amadeirados"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/odyssey-homme-man",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 42,
+    "nome": "Odyssey Mega",
+    "notas_verificadas": {
+      "topo": [
+        "Gengibre",
+        "Bergamota",
+        "Laranja",
+        "Limão",
+        "Hortelã"
+      ],
+      "coracao": [
+        "Abacaxi",
+        "Sálvia",
+        "Zimbro",
+        "Gerânio"
+      ],
+      "fundo": [
+        "Almíscar",
+        "Cedro",
+        "Vetiver",
+        "Fava-tonka"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/odyssey-mega-man",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 43,
+    "nome": "Legesi Men",
+    "notas_verificadas": {
+      "topo": [
+        "Lavanda",
+        "Alecrim",
+        "Petitgrain"
+      ],
+      "coracao": [
+        "Rosa",
+        "Jasmim",
+        "Gálbano",
+        "Sálvia"
+      ],
+      "fundo": [
+        "Sândalo",
+        "Almíscar",
+        "Cedro",
+        "Musgo de carvalho"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/legesi-man",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 44,
+    "nome": "Aura Fresh",
+    "notas_verificadas": {
+      "topo": [
+        "Limão",
+        "Bergamota",
+        "Cardamomo",
+        "Carambola"
+      ],
+      "coracao": [
+        "Pimenta",
+        "Sálvia"
+      ],
+      "fundo": [
+        "Almíscar",
+        "Cedro",
+        "Notas amadeiradas",
+        "Açafrão",
+        "Âmbar"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/armaf-aura-fresh",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 45,
+    "nome": "Craze",
+    "notas_verificadas": {
+      "topo": [
+        "Heliotrópio",
+        "Cominho",
+        "Bergamota"
+      ],
+      "coracao": [
+        "Amêndoa amarga",
+        "Lavanda",
+        "Jasmim",
+        "Sálvia"
+      ],
+      "fundo": [
+        "Baunilha",
+        "Âmbar",
+        "Sândalo"
+      ]
+    },
+    "fonte_notas": "https://armaf.com/products/armaf-craze",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 46,
+    "nome": "Supremacy Silver",
+    "notas_verificadas": {
+      "topo": [
+        "Maçã",
+        "Bergamota",
+        "Musgo de carvalho"
+      ],
+      "coracao": [
+        "Abacaxi",
+        "Patchouli",
+        "Jasmim"
+      ],
+      "fundo": [
+        "Almíscar",
+        "Âmbar-cinzento",
+        "Bétula"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/supremacy-silver",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 47,
+    "nome": "Supremacy Not Only Intense",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Maçã",
+        "Groselha-preta"
+      ],
+      "coracao": [
+        "Lavanda",
+        "Patchouli",
+        "Musgo de carvalho"
+      ],
+      "fundo": [
+        "Açafrão",
+        "Almíscar",
+        "Âmbar-cinzento"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/supremacy-not-only-intense",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 48,
+    "nome": "Supremacy in Heaven",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Mandarina"
+      ],
+      "coracao": [
+        "Chá-verde",
+        "Groselha-preta"
+      ],
+      "fundo": [
+        "Almíscar",
+        "Sândalo",
+        "Madeira"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/supremacy-in-heaven",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 49,
+    "nome": "Supremacy Incense",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Orégano",
+        "Pimenta"
+      ],
+      "coracao": [
+        "Âmbar",
+        "Ládano",
+        "Opopônaco"
+      ],
+      "fundo": [
+        "Couro",
+        "Sândalo",
+        "Patchouli",
+        "Oud"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/supremacy-incense",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 50,
+    "nome": "Turathi Blue",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Mandarina"
+      ],
+      "coracao": [
+        "Âmbar",
+        "Acorde amadeirado"
+      ],
+      "fundo": [
+        "Almíscar",
+        "Patchouli",
+        "Acorde especiado fresco"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/turathi-blue-homme",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 51,
+    "nome": "Turathi Brown",
+    "notas_verificadas": {
+      "topo": [
+        "Patchouli",
+        "Âmbar",
+        "Acorde ozônico",
+        "Acorde amadeirado"
+      ],
+      "coracao": [
+        "Acorde especiado fresco",
+        "Baunilha",
+        "Acorde especiado quente"
+      ],
+      "fundo": [
+        "Acorde balsâmico",
+        "Rosa",
+        "Acorde aquático"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/turathi-brown-homme",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 52,
+    "nome": "9pm",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota",
+        "Lavandim",
+        "Canela",
+        "Maçã"
+      ],
+      "coracao": [
+        "Lírio-do-vale",
+        "Flor de laranjeira"
+      ],
+      "fundo": [
+        "Patchouli",
+        "Âmbar",
+        "Baunilha",
+        "Fava-tonka"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/9-pm",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 53,
+    "nome": "9am Dive",
+    "notas_verificadas": {
+      "topo": [
+        "Limão",
+        "Pimenta-rosa",
+        "Hortelã",
+        "Groselha-preta"
+      ],
+      "coracao": [
+        "Maçã",
+        "Incenso",
+        "Cedro"
+      ],
+      "fundo": [
+        "Patchouli",
+        "Jasmim",
+        "Gengibre",
+        "Sândalo"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/9-am-dive",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 54,
+    "nome": "Rare Carbon",
+    "notas_verificadas": {
+      "topo": [
+        "Couro",
+        "Folha de violeta",
+        "Casca de canela",
+        "Noz-moscada"
+      ],
+      "coracao": [
+        "Rosa",
+        "Violeta",
+        "Cedro",
+        "Madeira de oud"
+      ],
+      "fundo": [
+        "Vetiver",
+        "Sândalo",
+        "Âmbar"
+      ]
+    },
+    "fonte_notas": "https://egypt.afnan.com/products/rare-carbon",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 55,
+    "nome": "Modest Une",
+    "notas_verificadas": {
+      "topo": [
+        "Bergamota da Calábria",
+        "Pimenta",
+        "Lavanda"
+      ],
+      "coracao": [
+        "Pimenta-rosa",
+        "Gerânio",
+        "Elemi"
+      ],
+      "fundo": [
+        "Ambroxan",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/modest-une",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 56,
+    "nome": "Historic Olmeda",
+    "notas_verificadas": {
+      "topo": [
+        "Pimenta-rosa",
+        "Cardamomo",
+        "Zimbro",
+        "Toranja"
+      ],
+      "coracao": [
+        "Bergamota da Calábria",
+        "Cedro",
+        "Noz-moscada",
+        "Jasmim"
+      ],
+      "fundo": [
+        "Patchouli",
+        "Maçã",
+        "Âmbar-cinzento",
+        "Almíscar"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/historic-olmeda",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 57,
+    "nome": "Mirsaal of Trust",
+    "notas_verificadas": {
+      "topo": [
+        "Vetiver",
+        "Ambrofix"
+      ],
+      "coracao": [
+        "Açafrão",
+        "Framboesa"
+      ],
+      "fundo": [
+        "Âmbar seco",
+        "Cravo",
+        "Madeira de cashmere"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/mirsaal-of-trust",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "media"
+  },
+  {
+    "id": 58,
+    "nome": "Mirsaal with Love",
+    "notas_verificadas": {
+      "topo": [
+        "Açafrão",
+        "Jasmim",
+        "Caramelo"
+      ],
+      "coracao": [
+        "Madeira",
+        "Oud",
+        "Âmbar-cinzento"
+      ],
+      "fundo": [
+        "Madeira ambarada",
+        "Cedro",
+        "Almíscar"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/mirsaal-with-love",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 59,
+    "nome": "Souvenir Floral Bouquet",
+    "notas_verificadas": {
+      "topo": [
+        "Lichia",
+        "Ruibarbo",
+        "Bergamota"
+      ],
+      "coracao": [
+        "Rosa",
+        "Lírio-do-vale",
+        "Peônia",
+        "Baunilha"
+      ],
+      "fundo": [
+        "Almíscar",
+        "Madeira de cashmere",
+        "Âmbar"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/souvenir-floral-bouquet",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  },
+  {
+    "id": 60,
+    "nome": "Violet Bouquet",
+    "notas_verificadas": {
+      "topo": [
+        "Acorde amadeirado",
+        "Açafrão",
+        "Bergamota"
+      ],
+      "coracao": [
+        "Caramelo",
+        "Âmbar",
+        "Laranja",
+        "Casca de cítricos"
+      ],
+      "fundo": [
+        "Âmbar-cinzento",
+        "Musgo de carvalho",
+        "Madeiras antigas"
+      ]
+    },
+    "fonte_notas": "https://afnan.com/products/violet-bouquet",
+    "tipo_fonte": "oficial_marca",
+    "confianca": "alta"
+  }
+]
