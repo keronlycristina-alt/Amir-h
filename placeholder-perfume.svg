@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500">
+  <rect width="400" height="500" fill="#f5f0eb"/>
+  <rect x="140" y="80" width="120" height="280" rx="8" fill="#d4c4b0" stroke="#a89080" stroke-width="2"/>
+  <rect x="170" y="50" width="60" height="40" rx="4" fill="#c4b4a0"/>
+  <circle cx="200" cy="420" r="8" fill="#a89080"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#8a7a6a">Amiráh</text>
+</svg>
